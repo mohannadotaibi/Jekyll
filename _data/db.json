@@ -19,7 +19,7 @@
         {
           "title": "Twitter",
           "description:": "",
-          "url": "https://twitter.com/#!/mohannadotaibi",
+          "url": "https://twitter.com/bufai7an",
         },
         {
           "title": "LinkedIn",
@@ -52,11 +52,6 @@
           "title": "StackOverflow",
           "descrption:": "",
           "url": "https://stackoverflow.com/users/5588602/mohannad-otaibi",
-        },
-        {
-          "title": "",
-          "descrption:": "",
-          "url": "",
         },
         {
           "title": "ترايدنت",
@@ -427,162 +422,179 @@
       },
     ]
   },
-  "accomplishments":[
-    {
-      "title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي",
-      "url": "http://www.adslgate.com/dsl/showthread.php?t=1180584",
-    },
-    {
-      "title": "vBulletinner.sh",
-      "url": "http://www.swalif.net/softs/swalif68/softs248354/",
-    },
-    {
-      "title": "vBulletinner.sh +",
-      "url": "https://www.traidnt.net/vb/traidnt1298111/",
-    },
-    {
-      "title": "NetLogger",
-      "url": "http://www.mo9a7i.com/tag/netlog/",
-    },
-    {
-      "title": "FTPer",
-      "description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line",
-      "url": "http://www.mohannadotaibi.com/",
-    },
-    {
-      "title": "Path App API Wrapper",
-      "url": "https://github.com/Mo9a7i/CodeIginter_PathAPI/",
-    },
-    {
-      "title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟",
-      "url": "https://www.traidnt.net/vb/traidnt1027285-2",
-    },
-  ],
-  "languages":[
-    {
-      "title": "JAVA",
-      "url": "",
-    },
-    {
-      "title": "C#",
-      "url": "",
-    },
-    {
-      "title": "HTML",
-      "url": "",
-    },
-    {
-      "title": "CSS",
-      "url": "",
-    },
-    {
-      "title": "Javascript",
-      "url": "",
-    },
-    {
-      "title": "jQuery",
-      "url": "",
-    },
-    {
-      "title": "Ajax",
-      "url": "",
-    },
-    {
-      "title": "PHP",
-      "url": "",
-    },
-    {
-      "title": "CodeIgniter",
-      "url": "",
-    },
-    {
-      "title": "Python",
-      "url": "",
-    },
-    {
-      "title": "WordPress Plugins",
-      "url": "",
-    },
-    {
-      "title": "vBulletin Plugins",
-      "url": "",
-    },
-    {
-      "title": "bash",
-      "url": "",
-    },
-    {
-      "title": "PowerShell",
-      "url": "",
-    },
-    {
-      "title": "Perl",
-      "url": "",
-    },
-    {
-      "title": "AdonisJS",
-      "url": "",
-    },
-    {
-      "title": "VBA",
-      "url": "",
-    },
-    {
-      "title": "VB.net",
-      "url": "",
-    },
-    {
-      "title": "command-line",
-      "url": "",
-    },
-    {
-      "title": "nodeJs",
-      "url": "",
-    },
-    {
-      "title": "sql",
-      "url": "",
-    },
-
-  ],
-  "standards_frameworks":[
-    {
+  "accomplishments":{
+    "title":"Things Done",
+    "description":"pieces of work done that I'm proud of",
+    "data":[
+      {
+        "title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي",
+        "url": "http://www.adslgate.com/dsl/showthread.php?t=1180584",
+        "arabic": true
+      },
+      {
+        "title": "vBulletinner.sh",
+        "url": "http://www.swalif.net/softs/swalif68/softs248354/",
+      },
+      {
+        "title": "vBulletinner.sh +",
+        "url": "https://www.traidnt.net/vb/traidnt1298111/",
+      },
+      {
+        "title": "NetLogger",
+        "url": "http://www.mo9a7i.com/tag/netlog/",
+      },
+      {
+        "title": "FTPer",
+        "description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line",
+        "url": "http://www.mohannadotaibi.com/",
+      },
+      {
+        "title": "Path App API Wrapper",
+        "url": "https://github.com/Mo9a7i/CodeIginter_PathAPI/",
+      },
+      {
+        "title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟",
+        "url": "https://www.traidnt.net/vb/traidnt1027285-2",
+        "arabic": true
+      },
+    ]
+  },
+  "languages":{
+    "title":"Programming Languages",
+    "description":"that know me",
+    "data": [
+      {
+        "title": "JAVA",
+        "url": "https://www.java.com/en/download/",
+      },
+      {
+        "title": "C#",
+        "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+      },
+      {
+        "title": "HTML",
+        "url": "https://www.w3schools.com/html/",
+      },
+      {
+        "title": "CSS",
+        "url": "https://www.w3schools.com/css/",
+      },
+      {
+        "title": "Javascript",
+        "url": "https://www.w3schools.com/js/DEFAULT.asp",
+      },
+      {
+        "title": "jQuery",
+        "url": "https://jquery.com/",
+      },
+      {
+        "title": "Ajax",
+        "url": "https://www.w3schools.com/xml/ajax_intro.asp",
+      },
+      {
+        "title": "PHP",
+        "url": "https://www.php.net/",
+      },
+      {
+        "title": "CodeIgniter",
+        "url": "https://codeigniter.com/",
+      },
+      {
+        "title": "Python",
+        "url": "https://www.python.org/",
+      },
+      {
+        "title": "WordPress Plugins",
+        "url": "https://developer.wordpress.org/plugins/",
+      },
+      {
+        "title": "vBulletin Plugins",
+        "url": "https://members.vbulletin.com/api/",
+      },
+      {
+        "title": "bash",
+        "url": "https://www.gnu.org/software/bash/",
+      },
+      {
+        "title": "PowerShell Scripts",
+        "url": "https://www.tutorialspoint.com/powershell/powershell_scripting.htm",
+      },
+      {
+        "title": "Perl",
+        "url": "https://www.perl.org/",
+      },
+      {
+        "title": "AdonisJS",
+        "url": "https://adonisjs.com/",
+      },
+      {
+        "title": "VBA",
+        "url": "https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office",
+      },
+      {
+        "title": "VB.net",
+        "url": "https://docs.microsoft.com/en-us/dotnet/visual-basic/",
+      },
+      {
+        "title": "Batch Scripting",
+        "url": "https://www.tutorialspoint.com/batch_script/index.htm",
+      },
+      {
+        "title": "nodeJs",
+        "url": "https://nodejs.org/en/",
+      },
+      {
+        "title": "sql",
+        "url": "https://www.w3schools.com/sql/",
+      },
+    ]
+  },
+  "standards":{
+    "title":"Standards & Frameworks",
+    "description":"I try to go by and use",
+    "data":[
+      {
       "title": "Twitter Bootstrap",
-      "url": "",
-    },
-    {
-      "title": "DRY",
-      "url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself",
-    },
-    {
-      "title": "10 Laws to Design By",
-      "url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/",
-    },
-    {
-      "title": "PSR-2",
-      "url": "https://www.php-fig.org/psr/psr-2/",
-    },
-    {
-      "title": "PHP The Right Way",
-      "url": "https://phptherightway.com/",
-    },
-    {
-      "title": "PHP Best Practices",
-      "url": "https://phpbestpractices.org/",
-    },
-    {
-      "title": "Getting Things Done",
-      "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
-    },
-    {
-      "title": "Usability Testing Demystified",
-      "url": "https://alistapart.com/article/usability-testing-demystified/",
-    },
-    {
-      "title": "Article Publishing Guidelines",
-      "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
-    },
-  ],
+      "url": "https://getbootstrap.com/",
+      },
+      {
+        "title": "Markdown",
+        "url": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet",
+      },
+      {
+        "title": "DRY",
+        "url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself",
+      },
+      {
+        "title": "10 Laws to Design By",
+        "url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/",
+      },
+      {
+        "title": "PSR-2",
+        "url": "https://www.php-fig.org/psr/psr-2/",
+      },
+      {
+        "title": "PHP The Right Way",
+        "url": "https://phptherightway.com/",
+      },
+      {
+        "title": "PHP Best Practices",
+        "url": "https://phpbestpractices.org/",
+      },
+      {
+        "title": "Getting Things Done",
+        "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+      },
+      {
+        "title": "Usability Testing Demystified",
+        "url": "https://alistapart.com/article/usability-testing-demystified/",
+      },
+      {
+        "title": "Article Publishing Guidelines",
+        "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
+      },
+    ],
+  },
   "games":[
     {
       "title": "iMVU",

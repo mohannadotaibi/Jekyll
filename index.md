@@ -25,7 +25,9 @@ title: Mohannad Faihan Otaibi
 <ul class="list-inline mb-5">
 {% for member in site.data.db.social_links.data.technical %}
   <li class="list-inline-item">
-    <a href="{{ member.url }}">{{ member.title }}</a>
+    <a href="{{ member.url }}">
+      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" />
+    </a>
   </li>
 {% endfor %}
 </ul>
@@ -65,7 +67,6 @@ title: Mohannad Faihan Otaibi
     <div class="row m-0 p-0">
       <img height="16" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-11">{{ member.title }}</span>
     </div>
-
   </li>
 {% endfor %}
 </ul>
@@ -79,7 +80,51 @@ title: Mohannad Faihan Otaibi
     <div class="row m-0 p-0">
       <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
+  </li>
+{% endfor %}
+</ul>
 
+
+## {{ site.data.db.accomplishments.title }} <br /> <small>{{ site.data.db.accomplishments.description }}</small>
+---
+
+<ul class="row list-unstyled p-0 mb-5">
+{% for member in site.data.db.accomplishments.data %}
+  <li class="col-md-12 pb-3 m-0">
+    <div class="row m-0 p-0">
+    <a href="{{ member.url }}">
+      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %}class="col-10">{{ member.title }}</span>
+    </a>
+
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
+
+## {{ site.data.db.languages.title }} <br /> <small>{{ site.data.db.languages.description }}</small>
+---
+
+<ul class="row list-unstyled p-0 mb-5">
+{% for member in site.data.db.languages.data %}
+  <li class="col-md-4 pb-3 m-0">
+    <div class="row m-0 p-0">
+      <img height="16" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
+
+## {{ site.data.db.standards.title }} <br /> <small>{{ site.data.db.standards.description }}</small>
+---
+
+<ul class="row list-unstyled p-0 mb-5">
+{% for member in site.data.db.standards.data %}
+  <li class="col-md-6 pb-3 m-0">
+    <div class="row m-0 p-0">
+      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+    </div>
   </li>
 {% endfor %}
 </ul>
