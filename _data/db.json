@@ -15,33 +15,33 @@
     "title":"Social Media Accounts",
     "description":"Find me on one or more of the following links",
     "data":{
-      "general":{
-        "twitter":{
+      "general":[
+        {
           "title": "Twitter",
-          "descrption:": "",
+          "description:": "",
           "url": "https://twitter.com/#!/mohannadotaibi",
         },
-        "linkedin":{
+        {
           "title": "LinkedIn",
-          "descrption:": "",
+          "description:": "",
           "url": "https://www.linkedin.com/profile/view?id=128889396&trk=tab_pro",
         },
-        "twitch":{
+        {
           "title": "Twitch",
-          "descrption:": "",
+          "description:": "",
           "url": "https://www.twitch.tv/bufai7an",
         },
-        "streamlabs":{
+        {
           "title": "BuFai7an.Live",
-          "descrption:": "",
+          "description:": "",
           "url": "https://bufai7an.live/",
         },
-        "youtube":{
+        {
           "title": "YouTube",
-          "descrption:": "",
+          "description:": "",
           "url": "https://www.youtube.com/user/mo9a7i",
-        },
-      },
+        }
+      ],
       "technical" :{
         "github":{
           "title": "GitHub",
