@@ -3,6 +3,7 @@ layout: default
 ---
 
   <header class="text-center mb-5 container">
+    <img class="d-block mx-auto mb-4 rounded-circle" src="https://pbs.twimg.com/profile_images/752138929164390400/nJR2gm_K_400x400.jpg" alt="Mohannad Otaibi Photo" width="150" height="150">
     <h1>{{ site.data.db.general.title | escape }} </h1>
     <p>{{ site.data.db.general.bio | escape }} </p>
     <p>{{ site.data.db.general.hashtags | escape }}</p>
@@ -17,7 +18,7 @@ layout: default
     {% endfor %}
     </ul>
 
-    <ul class="list-inline text-center mb-5">
+    <ul class="list-inline text-center mb-3">
     {% for member in site.data.db.social_links.data.technical %}
       <li class="list-inline-item">
         <a href="{{ member.url }}">
@@ -26,6 +27,8 @@ layout: default
       </li>
     {% endfor %}
     </ul>
+
+    <a role="button" href="assets/files/mohannadotaibi-cv.pdf" class="btn btn-info">Download my CV</a>
 
     <hr />
   </header>

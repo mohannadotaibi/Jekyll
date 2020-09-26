@@ -1,36 +1,33 @@
 
 <div class="py-5 border-top">
-  <div class="container">
+  <div class="container text-center">
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
+    <h2 class="">Let's Get in Touch</h2>
 
-    <div class="row">
-
-      <div class="col-sm">
-        <ul class="list-unstyled">
-          <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-            <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
-            </li>
-          {%- endif -%}
-        </ul>
+    <hr class="divider my-4" style="max-width: 3.25rem; border-width: 0.2rem; border-color: #f4623a;">
+    <p class="text-muted mb-5">Like something you see? Whatsapp me or send me an email and I will get back to you as soon as possible!</p>
+    <div class="row my-5">
+      <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+        <a href="https://wa.me/{{ site.data.db.general.phone }}" style="font-size: 3em">
+          <i class="fab fa-whatsapp" ></i>
+        </a>
       </div>
 
+      <div class="col-lg-4 mr-auto text-center mb-5 mb-lg-0">
+        <a href="mailto:{{ site.data.db.general.email }}" style="font-size: 3em">
+          <i class="far fa-envelope"></i>
+        </a>
+      </div>
 
-      <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
+    </div>
+
+    <div class="row my-5">
+
+      <div class="col">
+        <p>Copyright © 2020 - {{- site.data.db.general.title | escape -}}</p>
 
         <p>
-          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
+          Powered by <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Bootstrap 4 Github Pages</a>, <a href="https://pages.github.com/">Github Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>
         </p>
       </div>
 
