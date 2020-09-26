@@ -3,65 +3,34 @@ layout: page
 title: Mohannad Faihan Otaibi
 ---
 
----
-
-## {{ site.data.db.social_links.title }}<br /> <small>{{ site.data.db.social_links.description }}</small>
----
-
-### General
-<ul class="list-inline mb-5">
-{% for member in site.data.db.social_links.data.general %}
-  <li class="list-inline-item">
-    <a href="{{ member.url }}">
-      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" />
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
----
-
-### Technical Social Media
-<ul class="list-inline mb-5">
-{% for member in site.data.db.social_links.data.technical %}
-  <li class="list-inline-item">
-    <a href="{{ member.url }}">
-      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" />
-    </a>
-  </li>
-{% endfor %}
-</ul>
 
 
-
-## {{ site.data.db.applications.title }} <br /> <small>{{ site.data.db.applications.description }}</small>
----
-
-<ul class="list-inline mb-5">
+<section markdown="1" class="mb-5 p-3 container">
+## {{ site.data.db.applications.title }} <br /> <small>{{ site.data.db.applications.description }}</small>   
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.applications.data %}
-  <li class="list-inline-item mb-3">
-    <a href="{{ member[1].url }}"><img height="32" alt="{{ member[0] }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member[1].url }}" /></a>
+  <li class="col-md-4 pb-3 m-0">
+    <div class="row m-0 p-0">
+      <img height="32" alt="{{ member[0] }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member[1].url }}" class="" /><span class="col-10">{{ member[0] }}</span>
+    </div>
   </li>
 {% endfor %}
 </ul>
+</section>
 
-
-
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.quotes.title }} <br /> <small>{{ site.data.db.quotes.description }}</small>
----
 
 {% for member in site.data.db.quotes.data %}
   > {{ member.quote }}
   > <small><cite>{{ member.author }}</cite></small>
 
 {% endfor %}
-<div class="mb-5"></div>
+</section>
 
-
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.bookmarks.title }} <br /> <small>{{ site.data.db.bookmarks.description }}</small>
----
-
-<ul class="row list-unstyled p-0 mb-5">
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.bookmarks.data %}
   <li class="col-md-6 pb-3 m-0">
     <div class="row m-0 p-0">
@@ -70,11 +39,11 @@ title: Mohannad Faihan Otaibi
   </li>
 {% endfor %}
 </ul>
+</section>
 
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.organizations.title }} <br /> <small>{{ site.data.db.organizations.description }}</small>
----
-
-<ul class="row list-unstyled p-0 mb-5">
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.organizations.data %}
   <li class="col-md-6 pb-3 m-0">
     <div class="row m-0 p-0">
@@ -83,12 +52,11 @@ title: Mohannad Faihan Otaibi
   </li>
 {% endfor %}
 </ul>
+</section>
 
-
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.accomplishments.title }} <br /> <small>{{ site.data.db.accomplishments.description }}</small>
----
-
-<ul class="row list-unstyled p-0 mb-5">
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.accomplishments.data %}
   <li class="col-md-12 pb-3 m-0">
     <div class="row m-0 p-0">
@@ -100,12 +68,11 @@ title: Mohannad Faihan Otaibi
   </li>
 {% endfor %}
 </ul>
+</section>
 
-
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.languages.title }} <br /> <small>{{ site.data.db.languages.description }}</small>
----
-
-<ul class="row list-unstyled p-0 mb-5">
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.languages.data %}
   <li class="col-md-4 pb-3 m-0">
     <div class="row m-0 p-0">
@@ -114,12 +81,11 @@ title: Mohannad Faihan Otaibi
   </li>
 {% endfor %}
 </ul>
+</section>
 
-
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.standards.title }} <br /> <small>{{ site.data.db.standards.description }}</small>
----
-
-<ul class="row list-unstyled p-0 mb-5">
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.standards.data %}
   <li class="col-md-6 pb-3 m-0">
     <div class="row m-0 p-0">
@@ -128,12 +94,11 @@ title: Mohannad Faihan Otaibi
   </li>
 {% endfor %}
 </ul>
+</section>
 
-
+<section markdown="1" class="mb-5 p-3 container">
 ## {{ site.data.db.games.title }} <br /> <small>{{ site.data.db.games.description }}</small>
----
-
-<ul class="row list-unstyled p-0 mb-5">
+<ul class="row list-unstyled p-0">
 {% for member in site.data.db.games.data %}
   <li class="col-md-6 pb-3 m-0">
     <div class="row m-0 p-0">
@@ -142,7 +107,98 @@ title: Mohannad Faihan Otaibi
   </li>
 {% endfor %}
 </ul>
+</section>
 
+<section markdown="1" class="mb-5 p-3 container">
+## {{ site.data.db.locations.title }} <br /> <small>{{ site.data.db.locations.description }}</small>
+<div id="map" style="height:400px;"></div>
+</section>
+
+<script>
+// Initialize and add the map
+function initMap() {
+  var uluru = {lat: 47.142198, lng: 1.080505};
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 2,
+    center: uluru,
+    clickableIcons: false,
+    disableDefaultUI: true,
+    });
+
+    var marker;
+
+    {% for member in site.data.db.locations.data %}
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng({{ member.lat }}, {{ member.lng }}),
+        map: map
+      });
+    {% endfor %}
+
+}
+</script>
+
+
+
+<!-- use a serverless form -->
+<section markdown="1" class="mb-5 p-3 container">
+## Contact Me <br /> <small>for Projects, Questions, or simply saying Hi!</small>
+
+      <!-- a serverless contact us form -->
+      <form class="needs-validation" action="https://formsubmit.co/mohannad.otaibi+webform@gmail.com" type="post" novalidate>
+        <input type="hidden" name="_subject" value="New Message from Mohannadotaibi.com!" />
+        <input type="text" name="_honey" style="display:none" />
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="_template" value="box" />
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input type="email" class="form-control form-control-lg" id="email" name="email" placeholder="name@example.com" required>
+          <div class="invalid-feedback">
+            Please write your email.
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="yourName">Name</label>
+          <input type="text" class="form-control form-control-lg" id="yourName" name="yourName" placeholder="!Mohannad Otaibi" required>
+          <div class="invalid-feedback">
+            Please write a name
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="yourMessage">Example textarea</label>
+          <textarea class="form-control form-control-lg" id="yourMessage" name="yourMessage" rows="5" required></textarea>
+          <div class="invalid-feedback">
+            Please type a message
+          </div>
+        </div>
+
+        <div class="form-group">
+          <button type="submit" class="btn btn-success btn-lg btn-block">Send <i class="fas fa-paper-plane"></i></button>
+        </div>
+
+      </form>
+</section>
+<script>
+  // Example starter JavaScript for disabling form submissions if there are invalid fields
+  (function() {
+    'use strict';
+    window.addEventListener('load', function() {
+      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+      var forms = document.getElementsByClassName('needs-validation');
+      // Loop over them and prevent submission
+      var validation = Array.prototype.filter.call(forms, function(form) {
+        form.addEventListener('submit', function(event) {
+          if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          form.classList.add('was-validated');
+        }, false);
+      });
+    }, false);
+  })();
+</script>
 
 
 <!-- https://i.olsh.me/icon?size=80..120..200&url={{ member[1].url }} -->

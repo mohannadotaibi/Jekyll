@@ -7,3 +7,13 @@
 @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
+
+blockquote{
+  border-left: 2px solid grey;
+  padding-left:12px;
+  margin-top:24px;
+}
+
+h2{
+  margin-bottom:24px;
+}

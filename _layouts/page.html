@@ -1,14 +1,34 @@
 ---
 layout: default
 ---
-<article>
 
-  <header>
-    <h1>{{ page.title | escape }}</h1>
+  <header class="text-center mb-5 container">
+    <h1>{{ site.data.db.general.title | escape }} </h1>
+    <p>{{ site.data.db.general.bio | escape }} </p>
+    <p>{{ site.data.db.general.hashtags | escape }}</p>
+
+    <ul class="list-inline text-center">
+    {% for member in site.data.db.social_links.data.general %}
+      <li class="list-inline-item">
+        <a href="{{ member.url }}">
+          <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" />
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+
+    <ul class="list-inline text-center mb-5">
+    {% for member in site.data.db.social_links.data.technical %}
+      <li class="list-inline-item">
+        <a href="{{ member.url }}">
+          <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" />
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+
+    <hr />
   </header>
 
-  <section>
-    {{ content }}
-  </section>
 
-</article>
+  {{ content }}
