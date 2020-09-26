@@ -130,6 +130,20 @@ title: Mohannad Faihan Otaibi
 </ul>
 
 
+## {{ site.data.db.games.title }} <br /> <small>{{ site.data.db.games.description }}</small>
+---
+
+<ul class="row list-unstyled p-0 mb-5">
+{% for member in site.data.db.games.data %}
+  <li class="col-md-6 pb-3 m-0">
+    <div class="row m-0 p-0">
+      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
+
 
 <!-- https://i.olsh.me/icon?size=80..120..200&url={{ member[1].url }} -->
 <!-- http://f3.allesedv.com/16/{{ member[1].url }} -->

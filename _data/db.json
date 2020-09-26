@@ -595,44 +595,56 @@
       },
     ],
   },
-  "games":[
-    {
-      "title": "iMVU",
-      "url": "",
-    },
-    {
-      "title": "Second Life",
-      "url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself",
-    },
-    {
-      "title": "COD 4",
-      "url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/",
-    },
-    {
-      "title": "COD 5",
-      "url": "https://www.php-fig.org/psr/psr-2/",
-    },
-    {
-      "title": "COD 6",
-      "url": "https://phptherightway.com/",
-    },
-    {
-      "title": "COD 7",
-      "url": "https://phpbestpractices.org/",
-    },
-    {
-      "title": "COD 8",
-      "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
-    },
-    {
-      "title": "COD 16",
-      "url": "https://alistapart.com/article/usability-testing-demystified/",
-    },
-    {
-      "title": "FiveM GTA",
-      "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
-    },
-  ],
+  "games":{
+    "title":"Games I Play",
+    "description":"when I have time",
+    "data":[
+      {
+        "title": "iMVU",
+        "url": "https://secure.imvu.com/",
+      },
+      {
+        "title": "Second Life",
+        "url": "https://secondlife.com/",
+      },
+      {
+        "title": "Call of Duty® 4: Modern Warfare®",
+        "url": "https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare/",
+      },
+      {
+        "title": "Call of Duty®: Modern Warfare® 2",
+        "url": "https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2/",
+      },
+      {
+        "title": "Call of Duty: World at War",
+        "url": "https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/",
+      },
+      {
+        "title": "Call of Duty®: Black Ops",
+        "url": "https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/",
+      },
+      {
+        "title": "Call of Duty®: Modern Warfare® 3",
+        "url": "https://store.steampowered.com/app/115300/Call_of_Duty_Modern_Warfare_3/",
+      },
+      {
+        "title": "Call of Duty®: Black Ops II",
+        "url": "https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/",
+      },
+      {
+        "title": "Call of Duty®: Modern Warfare® Remastered",
+        "url": "https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered/",
+      },
+      {
+        "title": "Call of Duty: Modern Warfare",
+        "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)",
+      },
+      {
+        "title": "FiveM GTA",
+        "url": "https://fivem.net/",
+      },
+    ],
+  },
   "locations": [
     {
       "lat": "61.912363",
