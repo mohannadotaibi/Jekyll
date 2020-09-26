@@ -42,38 +42,38 @@
           "url": "https://www.youtube.com/user/mo9a7i",
         }
       ],
-      "technical" :{
-        "github":{
+      "technical" :[
+        {
           "title": "GitHub",
           "descrption:": "",
           "url": "https://github.com/Mo9a7i",
         },
-        "stackoverflow":{
+        {
           "title": "StackOverflow",
           "descrption:": "",
           "url": "https://stackoverflow.com/users/5588602/mohannad-otaibi",
         },
-        "WebHostingTalk":{
+        {
           "title": "",
           "descrption:": "",
           "url": "",
         },
-        "Traidnt":{
+        {
           "title": "ترايدنت",
           "descrption:": "",
           "url": "https://www.traidnt.net/vb/u53424/",
         },
-        "ADSLGate":{
+        {
           "title": "ADSLGATE",
           "descrption:": "",
           "url": "https://www.adslgate.com/dsl/member.php?u=299526",
         },
-        "swalifnet":{
+        {
           "title": "swalif.net",
           "descrption:": "",
           "url": "http://www.swalif.net/softs/1317.html",
         },
-      }
+      ]
     }
   },
   "applications":{
@@ -81,76 +81,76 @@
     "description":"Apps I depend on, in my new setups or to finish some work",
     "data": {
         "Atom.io": {
-          "url": "",
+          "url": "https://atom.io/",
         },
         "WinDirStat": {
-          "url": "",
+          "url": "https://windirstat.net/",
         },
         "Advanced IP Scanner": {
-          "url": "",
+          "url": "https://www.advanced-ip-scanner.com/",
         },
         "Typora": {
-          "url": "",
+          "url": "https://typora.io",
         },
         "Termius": {
-          "url": "",
+          "url": "https://termius.com/",
         },
         "Recuva": {
-          "url": "",
+          "url": "https://www.ccleaner.com/recuva",
         },
         "Revo Uninstaller": {
-          "url": "",
+          "url": "https://www.revouninstaller.com/",
         },
         "Chrome": {
-          "url": "",
+          "url": "https://www.google.com/chrome/",
         },
         "FireFox": {
-          "url": "",
+          "url": "https://www.mozilla.org/en-US/firefox/new/",
         },
-        "PostMan": {
-          "url": "",
+        "POSTMAN": {
+          "url": "https://www.postman.com/",
         },
         "MS Office": {
-          "url": "",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019",
         },
         "Adobe Suite": {
-          "url": "",
+          "url": "https://www.adobe.com/creativecloud.html",
         },
         "XAMPP": {
-          "url": "",
+          "url": "https://www.apachefriends.org/index.html",
         },
         "GitHub Desktop": {
-          "url": "",
+          "url": "https://desktop.github.com/",
         },
         "Avast": {
-          "url": "",
+          "url": "https://www.avast.com/en-us/index#pc",
         },
         "MalwareBytes": {
-          "url": "",
+          "url": "https://www.malwarebytes.com/",
         },
         "K-Lite": {
-          "url": "",
+          "url": "https://codecguide.com/download_kl.htm",
         },
         "Streamlabs OBS": {
-          "url": "",
+          "url": "https://streamlabs.com/",
         },
         "VMWare Workstation": {
-          "url": "",
+          "url": "https://www.vmware.com/products/workstation-pro.html",
         },
         "VM VirtualBox": {
-          "url": "",
+          "url": "https://www.virtualbox.org/",
         },
         "Free Download Manager": {
-          "url": "",
+          "url": "https://www.freedownloadmanager.org/",
         },
         "7-zip": {
-          "url": "",
+          "url": "https://www.7-zip.org/",
         },
         "Skype": {
-          "url": "",
+          "url": "https://skype.daesung.com/eng/main.asp",
         },
         "CCleaner": {
-          "url": "",
+          "url": "https://www.ccleaner.com/",
         },
         "Discord": {
           "url": "https://discord.com/",
@@ -170,10 +170,12 @@
     }
   },
   "bookmarks": {
-    "main": [
+    "title":"My Bookmarks",
+    "description":"Websites I enjoy browsing, or need most of the time",
+    "data": [
       {
         "title": "Smashing Magazine",
-        "url": "",
+        "url": "https://www.smashingmagazine.com/",
       },
       {
         "title": "David Walsh",
@@ -181,75 +183,75 @@
       },
       {
         "title": "FileHippo",
-        "url": "",
+        "url": "https://filehippo.com/",
       },
       {
         "title": "Cats Who Code",
-        "url": "",
+        "url": "https://catswhocode.com/",
       },
       {
         "title": "Tuts+",
-        "url": "",
+        "url": "https://tutsplus.com/tutorials",
       },
       {
         "title": "SpeckyBoy",
-        "url": "",
+        "url": "https://speckyboy.com/",
       },
       {
         "title": "Dynamic Drive",
-        "url": "",
+        "url": "http://dynamicdrive.com/",
       },
       {
         "title": "Tutorial 9",
-        "url": "",
+        "url": "Dead",
       },
       {
         "title": "CodeASP.net",
-        "url": "",
+        "url": "https://codeasp.net/",
       },
       {
         "title": "Google Hosted Libraries",
-        "url": "",
+        "url": "https://developers.google.com/speed/libraries",
       },
       {
         "title": "Daily Design Inspiration",
-        "url": "",
+        "url": "dead",
       },
       {
         "title": "iBrand Studio",
-        "url": "",
+        "url": "https://ibrandstudio.com/",
       },
       {
         "title": "DesignModo",
-        "url": "",
+        "url": "https://designmodo.com/",
       },
       {
         "title": "AskDaveTylor",
-        "url": "",
+        "url": "https://www.askdavetaylor.com/",
       },
       {
         "title": "DeviantArt",
-        "url": "",
+        "url": "https://www.deviantart.com/",
       },
       {
         "title": "GetApp",
-        "url": "",
+        "url": "https://www.getapp.com/",
       },
       {
         "title": "AllThingsWorkplace",
-        "url": "",
+        "url": "https://www.allthingsworkplace.com/",
       },
       {
         "title": "Momondo",
-        "url": "",
+        "url": "https://www.momondo.com/",
       },
       {
         "title": "UX Booth",
-        "url": "",
+        "url": "https://www.uxbooth.com/",
       },
       {
         "title": "HowToGeek",
-        "url": "",
+        "url": "https://www.howtogeek.com/",
       },
       {
         "title": "PWN Wiki",
@@ -259,15 +261,11 @@
         "title": "mubix",
         "url": "https://mubix.github.io/",
       },
-      {
-        "title": "",
-        "url": "",
-      },
     ]
   },
   "quotes": {
     "title": "Quotes",
-    "descrption": "Live by and respect",
+    "description": "Live by and respect",
     "data": [
       {
         "quote": "You cannot arrest an idea, it is bulletproof.",
@@ -383,45 +381,52 @@
     "data": {
     }
   },
-  "companies":[
-    {
-      "title": "Hetzner",
-      "url": "",
-    },
-    {
-      "title": "DigitalOcean",
-      "url": "",
-    },
-    {
-      "title": "Twilio",
-      "url": "https://www.twilio.com/",
-    },
-    {
-      "title": "cPanel",
-      "url": "https://www.cpanel.net/",
-    },
-    {
-      "title": "WHMCS",
-      "url": "https://www.whmcs.com/",
-    },
-    {
-      "title": "Clickatell",
-      "url": "https://www.clickatell.com/",
-    },
-    {
-      "title": "CloudFlare",
-      "url": "https://www.cloudflare.com/",
-    },
-    {
-      "title": "enom",
-      "url": "https://www.enom.com//",
-    },
-    {
-      "title": "Toot Studio",
-      "url": "https://toot.com.sa/en/",
-    },
-
-  ],
+  "organizations":{
+    "title":"Organizations",
+    "description":"that I respect and follow their work",
+    "data":[
+      {
+        "title": "Hetzner",
+        "url": "https://www.hetzner.com/",
+      },
+      {
+        "title": "DigitalOcean",
+        "url": "https://www.digitalocean.com/",
+      },
+      {
+        "title": "Twilio",
+        "url": "https://www.twilio.com/",
+      },
+      {
+        "title": "GitHub",
+        "url": "https://www.github.com/",
+      },
+      {
+        "title": "cPanel",
+        "url": "https://www.cpanel.net/",
+      },
+      {
+        "title": "WHMCS",
+        "url": "https://www.whmcs.com/",
+      },
+      {
+        "title": "Clickatell",
+        "url": "https://www.clickatell.com/",
+      },
+      {
+        "title": "CloudFlare",
+        "url": "https://www.cloudflare.com/",
+      },
+      {
+        "title": "enom",
+        "url": "https://www.enom.com//",
+      },
+      {
+        "title": "Toot Studio",
+        "url": "https://toot.com.sa/en/",
+      },
+    ]
+  },
   "accomplishments":[
     {
       "title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي",
