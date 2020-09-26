@@ -1,0 +1,702 @@
+{
+  "general":{
+    "title" : "Mohannad Faihan Otaibi",
+    "description" : "",
+    "keywords" : "",
+    "slogan" : "",
+    "biography" : "Techno-maniac, love change, Founder of @Hardlayers and @6degz, CTO of @promoefficiency",
+    "bio" : "The Geek you wanna talk to about technology and stuff.. I do web and I'm in looove with change..! I will challenge your intelligence",
+    "hashtags": "#Saudi, #American, #Aramcoan, #xKFUPMer, #Comبuتer_geeك, #MsLkjy, #M5_wAjD_5rBaN, #Enfj, #Married, #Father, #8ies, #Tabs-Team",
+    "email": "mohannad.otaibi@gmail.com",
+    "phone": "tel:+966545582222",
+    "cv": "",
+  },
+  "social_links" :{
+    "title":"Social Media Accounts",
+    "description":"Find me on one or more of the following links",
+    "data":{
+      "general":{
+        "twitter":{
+          "title": "Twitter",
+          "descrption:": "",
+          "url": "https://twitter.com/#!/mohannadotaibi",
+        },
+        "linkedin":{
+          "title": "LinkedIn",
+          "descrption:": "",
+          "url": "https://www.linkedin.com/profile/view?id=128889396&trk=tab_pro",
+        },
+        "twitch":{
+          "title": "Twitch",
+          "descrption:": "",
+          "url": "https://www.twitch.tv/bufai7an",
+        },
+        "streamlabs":{
+          "title": "BuFai7an.Live",
+          "descrption:": "",
+          "url": "https://bufai7an.live/",
+        },
+        "youtube":{
+          "title": "YouTube",
+          "descrption:": "",
+          "url": "https://www.youtube.com/user/mo9a7i",
+        },
+      },
+      "technical" :{
+        "github":{
+          "title": "GitHub",
+          "descrption:": "",
+          "url": "https://github.com/Mo9a7i",
+        },
+        "stackoverflow":{
+          "title": "StackOverflow",
+          "descrption:": "",
+          "url": "https://stackoverflow.com/users/5588602/mohannad-otaibi",
+        },
+        "WebHostingTalk":{
+          "title": "",
+          "descrption:": "",
+          "url": "",
+        },
+        "Traidnt":{
+          "title": "ترايدنت",
+          "descrption:": "",
+          "url": "https://www.traidnt.net/vb/u53424/",
+        },
+        "ADSLGate":{
+          "title": "ADSLGATE",
+          "descrption:": "",
+          "url": "https://www.adslgate.com/dsl/member.php?u=299526",
+        },
+        "swalifnet":{
+          "title": "swalif.net",
+          "descrption:": "",
+          "url": "http://www.swalif.net/softs/1317.html",
+        },
+      }
+    }
+  },
+  "applications":{
+    "title":"My Software",
+    "description":"Apps I depend on, in my new setups or to finish some work",
+    "data": {
+        "Atom.io": {
+          "url": "",
+        },
+        "WinDirStat": {
+          "url": "",
+        },
+        "Advanced IP Scanner": {
+          "url": "",
+        },
+        "Typora": {
+          "url": "",
+        },
+        "Termius": {
+          "url": "",
+        },
+        "Recuva": {
+          "url": "",
+        },
+        "Revo Uninstaller": {
+          "url": "",
+        },
+        "Chrome": {
+          "url": "",
+        },
+        "FireFox": {
+          "url": "",
+        },
+        "PostMan": {
+          "url": "",
+        },
+        "MS Office": {
+          "url": "",
+        },
+        "Adobe Suite": {
+          "url": "",
+        },
+        "XAMPP": {
+          "url": "",
+        },
+        "GitHub Desktop": {
+          "url": "",
+        },
+        "Avast": {
+          "url": "",
+        },
+        "MalwareBytes": {
+          "url": "",
+        },
+        "K-Lite": {
+          "url": "",
+        },
+        "Streamlabs OBS": {
+          "url": "",
+        },
+        "VMWare Workstation": {
+          "url": "",
+        },
+        "VM VirtualBox": {
+          "url": "",
+        },
+        "Free Download Manager": {
+          "url": "",
+        },
+        "7-zip": {
+          "url": "",
+        },
+        "Skype": {
+          "url": "",
+        },
+        "CCleaner": {
+          "url": "",
+        },
+        "Discord": {
+          "url": "https://discord.com/",
+        },
+        "Google Drive": {
+          "url": "https://www.google.com/drive/download/",
+        },
+        "Steam": {
+          "url": "https://store.steampowered.com/",
+        },
+        "Express VPN": {
+          "url": "https://www.expressvpn.com/",
+        },
+        "LastPass": {
+          "url": "https://lastpass.com/",
+        },
+    }
+  },
+  "bookmarks": {
+    "main": [
+      {
+        "title": "Smashing Magazine",
+        "url": "",
+      },
+      {
+        "title": "David Walsh",
+        "url": "https://davidwalsh.name/",
+      },
+      {
+        "title": "FileHippo",
+        "url": "",
+      },
+      {
+        "title": "Cats Who Code",
+        "url": "",
+      },
+      {
+        "title": "Tuts+",
+        "url": "",
+      },
+      {
+        "title": "SpeckyBoy",
+        "url": "",
+      },
+      {
+        "title": "Dynamic Drive",
+        "url": "",
+      },
+      {
+        "title": "Tutorial 9",
+        "url": "",
+      },
+      {
+        "title": "CodeASP.net",
+        "url": "",
+      },
+      {
+        "title": "Google Hosted Libraries",
+        "url": "",
+      },
+      {
+        "title": "Daily Design Inspiration",
+        "url": "",
+      },
+      {
+        "title": "iBrand Studio",
+        "url": "",
+      },
+      {
+        "title": "DesignModo",
+        "url": "",
+      },
+      {
+        "title": "AskDaveTylor",
+        "url": "",
+      },
+      {
+        "title": "DeviantArt",
+        "url": "",
+      },
+      {
+        "title": "GetApp",
+        "url": "",
+      },
+      {
+        "title": "AllThingsWorkplace",
+        "url": "",
+      },
+      {
+        "title": "Momondo",
+        "url": "",
+      },
+      {
+        "title": "UX Booth",
+        "url": "",
+      },
+      {
+        "title": "HowToGeek",
+        "url": "",
+      },
+      {
+        "title": "PWN Wiki",
+        "url": "http://pwnwiki.io/#!index.md",
+      },
+      {
+        "title": "mubix",
+        "url": "https://mubix.github.io/",
+      },
+      {
+        "title": "",
+        "url": "",
+      },
+    ]
+  },
+  "quotes": {
+    "title": "Quotes",
+    "descrption": "Live by and respect",
+    "data": [
+      {
+        "quote": "You cannot arrest an idea, it is bulletproof.",
+        "author": "Anonymous",
+      },
+      {
+        "quote": "The Quiter you become, the more you are able to hear",
+        "author": "Quoted by BackTrack OS, By Rumi",
+      },
+      {
+        "quote": "We only see two things in people; what we want to see, and what they want to show us.",
+        "author": "James Remer, as Harry Morgan",
+      },
+      {
+        "quote": "It is not the strongest species that survive, nor the most intelligent, but the ones responsive to change.",
+        "author": "Charles Darwin",
+      },
+    ],
+  },
+  "locations": {
+    "title": "Been to",
+    "description": "Locations I lived in, visited, or my foots were set on",
+    "data": [
+      {
+        "lat": "61.912363",
+        "lng": " 25.824976"
+      },
+      {
+        "lat": "51.505100",
+        "lng": "-0.019821"
+      },
+      {
+        "lat": "16.906198",
+        "lng": "42.557793"
+      },
+      {
+        "lat": "21.530802",
+        "lng": "39.185705"
+      },
+      {
+        "lat": "22.319590",
+        "lng": "39.101715"
+      },
+      {
+        "lat": "23.137580",
+        "lng": "113.281647"
+      },
+      {
+        "lat": "25.289414",
+        "lng": "51.535639"
+      },
+      {
+        "lat": "22.548507",
+        "lng": "114.086711"
+      },
+      {
+        "lat": "22.291509",
+        "lng": "113.942321"
+      },
+      {
+        "lat": "27.348966",
+        "lng": "35.697899"
+      },
+      {
+        "lat": "28.383059",
+        "lng": "36.583017"
+      },
+      {
+        "lat": "28.415974",
+        "lng": "48.501512"
+      },
+      {
+        "lat": "22.510470",
+        "lng": "53.951726"
+      },
+      {
+        "lat": "23.986052",
+        "lng": "38.247564"
+      },
+      {
+        "lat": "18.223770",
+        "lng": "42.507505"
+      },
+      {
+        "lat": "27.514164",
+        "lng": "41.682321"
+      },
+      {
+        "lat": "24.506293",
+        "lng": "44.392661"
+      },
+      {
+        "lat": "24.468392",
+        "lng": "39.611268"
+      },
+      {
+        "lat": "21.422537",
+        "lng": "39.826218"
+      },
+      {
+        "lat": "29.291355",
+        "lng": "47.921233"
+      },
+      {
+        "lat": "32.221081",
+        "lng": "-110.922326"
+      },
+    ]
+  },
+  "playlist":{
+    "title": "YouTube",
+    "description": "My Youtube Favorites",
+    "data": {
+    }
+  },
+  "companies":[
+    {
+      "title": "Hetzner",
+      "url": "",
+    },
+    {
+      "title": "DigitalOcean",
+      "url": "",
+    },
+    {
+      "title": "Twilio",
+      "url": "https://www.twilio.com/",
+    },
+    {
+      "title": "cPanel",
+      "url": "https://www.cpanel.net/",
+    },
+    {
+      "title": "WHMCS",
+      "url": "https://www.whmcs.com/",
+    },
+    {
+      "title": "Clickatell",
+      "url": "https://www.clickatell.com/",
+    },
+    {
+      "title": "CloudFlare",
+      "url": "https://www.cloudflare.com/",
+    },
+    {
+      "title": "enom",
+      "url": "https://www.enom.com//",
+    },
+    {
+      "title": "Toot Studio",
+      "url": "https://toot.com.sa/en/",
+    },
+
+  ],
+  "accomplishments":[
+    {
+      "title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي",
+      "url": "http://www.adslgate.com/dsl/showthread.php?t=1180584",
+    },
+    {
+      "title": "vBulletinner.sh",
+      "url": "http://www.swalif.net/softs/swalif68/softs248354/",
+    },
+    {
+      "title": "vBulletinner.sh +",
+      "url": "https://www.traidnt.net/vb/traidnt1298111/",
+    },
+    {
+      "title": "NetLogger",
+      "url": "http://www.mo9a7i.com/tag/netlog/",
+    },
+    {
+      "title": "FTPer",
+      "description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line",
+      "url": "http://www.mohannadotaibi.com/",
+    },
+    {
+      "title": "Path App API Wrapper",
+      "url": "https://github.com/Mo9a7i/CodeIginter_PathAPI/",
+    },
+    {
+      "title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟",
+      "url": "https://www.traidnt.net/vb/traidnt1027285-2",
+    },
+  ],
+  "languages":[
+    {
+      "title": "JAVA",
+      "url": "",
+    },
+    {
+      "title": "C#",
+      "url": "",
+    },
+    {
+      "title": "HTML",
+      "url": "",
+    },
+    {
+      "title": "CSS",
+      "url": "",
+    },
+    {
+      "title": "Javascript",
+      "url": "",
+    },
+    {
+      "title": "jQuery",
+      "url": "",
+    },
+    {
+      "title": "Ajax",
+      "url": "",
+    },
+    {
+      "title": "PHP",
+      "url": "",
+    },
+    {
+      "title": "CodeIgniter",
+      "url": "",
+    },
+    {
+      "title": "Python",
+      "url": "",
+    },
+    {
+      "title": "WordPress Plugins",
+      "url": "",
+    },
+    {
+      "title": "vBulletin Plugins",
+      "url": "",
+    },
+    {
+      "title": "bash",
+      "url": "",
+    },
+    {
+      "title": "PowerShell",
+      "url": "",
+    },
+    {
+      "title": "Perl",
+      "url": "",
+    },
+    {
+      "title": "AdonisJS",
+      "url": "",
+    },
+    {
+      "title": "VBA",
+      "url": "",
+    },
+    {
+      "title": "VB.net",
+      "url": "",
+    },
+    {
+      "title": "command-line",
+      "url": "",
+    },
+    {
+      "title": "nodeJs",
+      "url": "",
+    },
+    {
+      "title": "sql",
+      "url": "",
+    },
+
+  ],
+  "standards_frameworks":[
+    {
+      "title": "Twitter Bootstrap",
+      "url": "",
+    },
+    {
+      "title": "DRY",
+      "url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself",
+    },
+    {
+      "title": "10 Laws to Design By",
+      "url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/",
+    },
+    {
+      "title": "PSR-2",
+      "url": "https://www.php-fig.org/psr/psr-2/",
+    },
+    {
+      "title": "PHP The Right Way",
+      "url": "https://phptherightway.com/",
+    },
+    {
+      "title": "PHP Best Practices",
+      "url": "https://phpbestpractices.org/",
+    },
+    {
+      "title": "Getting Things Done",
+      "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+    },
+    {
+      "title": "Usability Testing Demystified",
+      "url": "https://alistapart.com/article/usability-testing-demystified/",
+    },
+    {
+      "title": "Article Publishing Guidelines",
+      "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
+    },
+  ],
+  "games":[
+    {
+      "title": "iMVU",
+      "url": "",
+    },
+    {
+      "title": "Second Life",
+      "url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself",
+    },
+    {
+      "title": "COD 4",
+      "url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/",
+    },
+    {
+      "title": "COD 5",
+      "url": "https://www.php-fig.org/psr/psr-2/",
+    },
+    {
+      "title": "COD 6",
+      "url": "https://phptherightway.com/",
+    },
+    {
+      "title": "COD 7",
+      "url": "https://phpbestpractices.org/",
+    },
+    {
+      "title": "COD 8",
+      "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+    },
+    {
+      "title": "COD 16",
+      "url": "https://alistapart.com/article/usability-testing-demystified/",
+    },
+    {
+      "title": "FiveM GTA",
+      "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
+    },
+  ],
+  "locations": [
+    {
+      "lat": "61.912363",
+      "lng": " 25.824976"
+    },
+    {
+      "lat": "51.505100",
+      "lng": "-0.019821"
+    },
+    {
+      "lat": "16.906198",
+      "lng": "42.557793"
+    },
+    {
+      "lat": "21.530802",
+      "lng": "39.185705"
+    },
+    {
+      "lat": "22.319590",
+      "lng": "39.101715"
+    },
+    {
+      "lat": "23.137580",
+      "lng": "113.281647"
+    },
+    {
+      "lat": "25.289414",
+      "lng": "51.535639"
+    },
+    {
+      "lat": "22.548507",
+      "lng": "114.086711"
+    },
+    {
+      "lat": "22.291509",
+      "lng": "113.942321"
+    },
+    {
+      "lat": "27.348966",
+      "lng": "35.697899"
+    },
+    {
+      "lat": "28.383059",
+      "lng": "36.583017"
+    },
+    {
+      "lat": "28.415974",
+      "lng": "48.501512"
+    },
+    {
+      "lat": "22.510470",
+      "lng": "53.951726"
+    },
+    {
+      "lat": "23.986052",
+      "lng": "38.247564"
+    },
+    {
+      "lat": "18.223770",
+      "lng": "42.507505"
+    },
+    {
+      "lat": "27.514164",
+      "lng": "41.682321"
+    },
+    {
+      "lat": "24.506293",
+      "lng": "44.392661"
+    },
+    {
+      "lat": "24.468392",
+      "lng": "39.611268"
+    },
+    {
+      "lat": "21.422537",
+      "lng": "39.826218"},
+    {
+      "lat": "29.291355",
+      "lng": "47.921233"},
+    {
+      "lat": "32.221081",
+      "lng": "-110.922326"},
+  ]
+}
