@@ -78,6 +78,9 @@
         "Atom.io": {
           "url": "https://atom.io/",
         },
+        "WinSCP": {
+          "url": "https://winscp.net/eng/download.php",
+        },
         "WinDirStat": {
           "url": "https://windirstat.net/",
         },

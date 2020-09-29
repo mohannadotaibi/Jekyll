@@ -1,11 +1,10 @@
 title: Mohannad Faihan Otaibi
 email: "mohannad.otaibi@gmail.com"
-description: >- # this means to ignore newlines until "baseurl:"
-  Techno-maniac, love change, Founder of @Hardlayers and @6degz, CTO of @promoefficiency
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+description: Techno-maniac, love change, Founder of @Hardlayers and @6degz, CTO of @promoefficiency
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.mohannadotaibi.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: bufai7an
+github_username:  mo9a7i
 
 repository: "mohannadotaibi/mohannadotaibi.com"
 
