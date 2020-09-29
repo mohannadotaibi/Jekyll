@@ -1,6 +1,6 @@
 # [mohannadotaibi.com](https://www.mohannadotaibi.com) website source code
 
-> build on top of Boostrap 4 Github Pages
+> built on top of Boostrap 4 Github Pages
 
 ## Uses:
 
