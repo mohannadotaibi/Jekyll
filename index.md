@@ -37,7 +37,7 @@ title: Mohannad Faihan Otaibi
   <li class="col-md-4 pb-3 m-0">
     <div class="row m-0 p-0">
       <a href="{{ member.url }}">
-        <img height="16" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+        <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=16&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
       </a>
     </div>
   </li>
