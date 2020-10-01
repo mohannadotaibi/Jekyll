@@ -51,7 +51,7 @@ title: Mohannad Faihan Otaibi
 {% for member in site.data.db.organizations.data %}
   <li class="col-md-3 pb-3 m-0">
     <div class="row m-0 p-0">
-      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+      <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
   </li>
 {% endfor %}
@@ -65,7 +65,7 @@ title: Mohannad Faihan Otaibi
   <li class="col-md-12 pb-3 m-0">
     <div class="row m-0 p-0">
     <a href="{{ member.url }}">
-      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %}class="col-10">{{ member.title }}</span>
+      <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %}class="col-10">{{ member.title }}</span>
     </a>
 
     </div>
@@ -86,7 +86,7 @@ title: Mohannad Faihan Otaibi
         </a>
       {% else %}
         <a href="{{ member.url }}" style="font-size:48px;">
-          <img height="48" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="grayscale" />
+          <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=48&url={{ member.url }}" class="grayscale" />
         </a>
       {% endif %}
 
@@ -102,7 +102,7 @@ title: Mohannad Faihan Otaibi
 {% for member in site.data.db.standards.data %}
   <li class="col-md-4 pb-3 m-0">
     <div class="row m-0 p-0">
-      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+      <img  alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
   </li>
 {% endfor %}
@@ -115,7 +115,7 @@ title: Mohannad Faihan Otaibi
 {% for member in site.data.db.games.data %}
   <li class="col-md-6 pb-3 m-0">
     <div class="row m-0 p-0">
-      <img height="32" alt="{{ member.title }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+      <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
   </li>
 {% endfor %}
