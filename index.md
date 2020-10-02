@@ -10,7 +10,7 @@ title: Mohannad Faihan Otaibi
   <li class="col-md-4 pb-3 m-0">
     <div class="row m-0 p-0">
       <a href="{{ member[1].url }}">
-        <img height="32" alt="{{ member[0] }}" src="https://i.olsh.me/icon?size=80..120..200&url={{ member[1].url }}" class="" /><span class="col-10">{{ member[0] }}</span>
+        <img height="32" alt="{{ member[0] }}" src="https://icons.duckduckgo.com/ip3/{{ member[1].url }}" class="" /><span class="col-10">{{ member[0] }}</span>
       </a>
     </div>
   </li>
@@ -35,7 +35,7 @@ title: Mohannad Faihan Otaibi
   <li class="col-md-4 pb-3 m-0">
     <div class="row m-0 p-0">
       <a href="{{ member.url }}">
-        <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=16&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+        <img height="16" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
       </a>
     </div>
   </li>
@@ -49,7 +49,7 @@ title: Mohannad Faihan Otaibi
 {% for member in site.data.db.organizations.data %}
   <li class="col-md-3 pb-3 m-0">
     <div class="row m-0 p-0">
-      <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+      <img height="32" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
   </li>
 {% endfor %}
@@ -63,7 +63,7 @@ title: Mohannad Faihan Otaibi
   <li class="col-md-12 pb-3 m-0">
     <div class="row m-0 p-0">
     <a href="{{ member.url }}">
-      <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %}class="col-10">{{ member.title }}</span>
+      <img height="32" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %}class="col-10">{{ member.title }}</span>
     </a>
 
     </div>
@@ -100,7 +100,7 @@ title: Mohannad Faihan Otaibi
 {% for member in site.data.db.standards.data %}
   <li class="col-md-4 pb-3 m-0">
     <div class="row m-0 p-0">
-      <img  alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+      <img height="32" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
   </li>
 {% endfor %}
@@ -113,7 +113,7 @@ title: Mohannad Faihan Otaibi
 {% for member in site.data.db.games.data %}
   <li class="col-md-6 pb-3 m-0">
     <div class="row m-0 p-0">
-      <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=32&url={{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+      <img height="32" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
     </div>
   </li>
 {% endfor %}
