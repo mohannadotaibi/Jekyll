@@ -84,7 +84,7 @@ title: Mohannad Faihan Otaibi
         </a>
       {% else %}
         <a href="{{ member.url }}" style="font-size:48px;">
-          <img alt="{{ member.title }}" src="https://i.olsh.me/icon?size=48&url={{ member.url }}" class="grayscale" />
+          <img height="48" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="grayscale" />
         </a>
       {% endif %}
 
