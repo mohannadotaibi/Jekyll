@@ -12,7 +12,7 @@ layout: default
     {% for member in site.data.db.social_links.data.general %}
       <li class="list-inline-item">
         <a href="{{ member.url }}">
-          <img height="32" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" />
+          <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" />
         </a>
       </li>
     {% endfor %}
@@ -22,7 +22,7 @@ layout: default
     {% for member in site.data.db.social_links.data.technical %}
       <li class="list-inline-item">
         <a href="{{ member.url }}">
-          <img height="32" alt="{{ member.title }}" src="https://icons.duckduckgo.com/ip3/{{ member.url }}" />
+          <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" />
         </a>
       </li>
     {% endfor %}
