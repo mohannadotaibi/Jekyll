@@ -6,15 +6,13 @@
 * for programming languages icons
   <https://devicon.dev/>   find a replacement for it
 
-* for fonts
-
-* upload.promoe.com.sa
-  aqueous-scorpion-pk616snxtlly6ptygrocg9n1.herokudns.com   not needed anymore
-
-* add serverless to frameworks
+* add serverless to frameworks **done**
 
 * my websites section
-  f6sny
-  mo9a7i
+  f6sny.com
+  mo9a7i.com
+  promoe.com.sa
+  efficiencys.com.sa
+  6degrees.com.sa
 
-* need to add tv shows and playlists
+* Need to add tv shows and playlists __Decided Not to__
