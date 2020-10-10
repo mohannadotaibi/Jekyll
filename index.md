@@ -4,7 +4,7 @@ title: Mohannad Faihan Otaibi
 ---
 
 <section markdown="1" class="mb-5 p-3 container">
-## {{ site.data.db.applications.title }} <br /> <small class="text-muted">{{ site.data.db.applications.description }}</small>   
+## {{ site.data.db.applications.title }} <br /> <small class="text-muted">{{ site.data.db.applications.description }}</small>
 <ul class="row list-unstyled p-0">
 {% for member in site.data.db.applications.data %}
   <li class="col-md-4 pb-3 m-0">
