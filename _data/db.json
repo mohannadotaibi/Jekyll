@@ -87,8 +87,8 @@
           "Chocolatey": {
             "url": "https://chocolatey.org/"
           },
-        "Atom.io": {
-          "url": "https://atom.io/"
+        "VS Code": {
+          "url": "https://code.visualstudio.com/"
         },
         "WinSCP": {
           "url": "https://winscp.net/eng/download.php"
@@ -117,9 +117,6 @@
         "FireFox": {
           "url": "https://www.mozilla.org/en-US/firefox/new/"
         },
-        "POSTMAN": {
-          "url": "https://www.postman.com/"
-        },
         "MS Office": {
           "url": "https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019"
         },
@@ -131,12 +128,6 @@
         },
         "GitHub Desktop": {
           "url": "https://desktop.github.com/"
-        },
-        "Avast": {
-          "url": "https://www.avast.com/en-us/index#pc"
-        },
-        "MalwareBytes": {
-          "url": "https://www.malwarebytes.com/"
         },
         "K-Lite": {
           "url": "https://codecguide.com/download_kl.htm"
@@ -157,7 +148,7 @@
           "url": "https://www.7-zip.org/"
         },
         "Skype": {
-          "url": "https://skype.daesung.com/eng/main.asp"
+          "url": "https://www.skype.com"
         },
         "CCleaner": {
           "url": "https://www.ccleaner.com/"
@@ -174,6 +165,12 @@
         "Express VPN": {
           "url": "https://www.expressvpn.com/"
         },
+        "Fiddler": {
+            "url": "https://www.telerik.com/fiddler/"
+          },
+          "MS PowerToys": {
+            "url": "https://github.com/microsoft/PowerToys/"
+          },
         "LastPass": {
           "url": "https://lastpass.com/"
         }
@@ -634,6 +631,10 @@
     "title":"Standards & Frameworks",
     "description":"I try to go by and use",
     "data":[
+        {
+            "title": "Docker",
+            "url": "https://www.docker.com/"
+            },
       {
       "title": "Twitter Bootstrap",
       "url": "https://getbootstrap.com/"
