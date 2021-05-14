@@ -174,8 +174,6 @@ function initMap() {
     </div>
   </div>
 
-
-
   <div class="form-group pb-2 border-bottom">
     <textarea class="form-control form-control-lg border-0 rounded-0" id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
     <div class="invalid-feedback">
@@ -209,7 +207,3 @@ function initMap() {
     }, false);
   })();
 </script>
-
-
-<!-- https://i.olsh.me/icon?size=80..120..200&url={{ member[1].url }} -->
-<!-- http://f3.allesedv.com/16/{{ member[1].url }} -->
