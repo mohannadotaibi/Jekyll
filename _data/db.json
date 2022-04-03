@@ -9,7 +9,7 @@
     "hashtags": "#Saudi, #American, #Aramcoan, #xKFUPMer, #Comبuتer_geeك, #MsLkjy, #M5_wAjD_5rBaN, #Enfj, #Married, #Father, #8ies, #Tabs-Team",
     "email": "mohannad.otaibi@gmail.com",
     "phone": "966545582222",
-    "cv": "/assets/files/Mohannad-Otaibi-CV-9-2020.pdf",
+    "cv": "/assets/files/Mohannad-Otaibi-CV-Nov-2021.pdf",
     "old_nicknames": [
       "interboy", "theinterboy", "mfotaibi", "dabdoobnet", "انتربوي"
     ],
@@ -25,7 +25,8 @@
         {
           "title": "Twitter",
           "description:": "",
-          "url": "https://twitter.com/bufai7an"
+          "url": "https://twitter.com/bufai7an",
+          "favicoDomain":"twitter.com"
         },
         {
           "title": "LinkedIn",
@@ -340,90 +341,33 @@
     "title": "Been to",
     "description": "Locations I lived in, visited, or my foots were set on",
     "data": [
-      {
-        "lat": "61.912363",
-        "lng": " 25.824976"
-      },
-      {
-        "lat": "51.505100",
-        "lng": "-0.019821"
-      },
-      {
-        "lat": "16.906198",
-        "lng": "42.557793"
-      },
-      {
-        "lat": "21.530802",
-        "lng": "39.185705"
-      },
-      {
-        "lat": "22.319590",
-        "lng": "39.101715"
-      },
-      {
-        "lat": "23.137580",
-        "lng": "113.281647"
-      },
-      {
-        "lat": "25.289414",
-        "lng": "51.535639"
-      },
-      {
-        "lat": "22.548507",
-        "lng": "114.086711"
-      },
-      {
-        "lat": "22.291509",
-        "lng": "113.942321"
-      },
-      {
-        "lat": "27.348966",
-        "lng": "35.697899"
-      },
-      {
-        "lat": "28.383059",
-        "lng": "36.583017"
-      },
-      {
-        "lat": "28.415974",
-        "lng": "48.501512"
-      },
-      {
-        "lat": "22.510470",
-        "lng": "53.951726"
-      },
-      {
-        "lat": "23.986052",
-        "lng": "38.247564"
-      },
-      {
-        "lat": "18.223770",
-        "lng": "42.507505"
-      },
-      {
-        "lat": "27.514164",
-        "lng": "41.682321"
-      },
-      {
-        "lat": "24.506293",
-        "lng": "44.392661"
-      },
-      {
-        "lat": "24.468392",
-        "lng": "39.611268"
-      },
-      {
-        "lat": "21.422537",
-        "lng": "39.826218"
-      },
-      {
-        "lat": "29.291355",
-        "lng": "47.921233"
-      },
-      {
-        "lat": "32.221081",
-        "lng": "-110.922326"
-      },
+      {"lat": "61.912363","lng": "25.824976"},
+      {"lat": "37.5652154","lng": "126.9195105"},
+      {"lat": "34.1486076","lng": "-118.0168104"},
+      {"lat": "34.0207305","lng": "-118.6919117"},
+      {"lat": "42.3144556","lng": "-71.0403234"},
+      {"lat": "29.817402","lng": "-95.5413744"},
+      {"lat": "30.0595581","lng": "31.223445"},
+      {"lat": "51.505100","lng": "-0.019821"},
+      {"lat": "16.906198","lng": "42.557793"},
+      {"lat": "21.530802","lng": "39.185705"},
+      {"lat": "22.319590","lng": "39.101715"},
+      {"lat": "23.137580","lng": "113.281647"},
+      {"lat": "25.289414","lng": "51.535639"},
+      {"lat": "22.548507","lng": "114.086711"},
+      {"lat": "22.291509","lng": "113.942321"},
+      {"lat": "27.348966","lng": "35.697899"},
+      {"lat": "28.383059","lng": "36.583017"},
+      {"lat": "28.415974","lng": "48.501512"},
+      {"lat": "22.510470","lng": "53.951726"},
+      {"lat": "23.986052","lng": "38.247564"},
+      {"lat": "18.223770","lng": "42.507505"},
+      {"lat": "27.514164","lng": "41.682321"},
+      {"lat": "24.506293","lng": "44.392661"},
+      {"lat": "24.468392","lng": "39.611268"},
+      {"lat": "21.422537","lng": "39.826218"},
+      {"lat": "29.291355","lng": "47.921233"},
+      {"lat": "32.221081","lng": "-110.922326"},
     ]
   },
   "playlist":{
@@ -525,8 +469,8 @@
     ]
   },
   "languages":{
-    "title":"Programming Languages",
-    "description":"that know me",
+    "title":"Programming Languages & Frameworks",
+    "description":"I speak",
     "data": [
       {
         "title": "JAVA",
@@ -585,7 +529,8 @@
       },
       {
         "title": "bash",
-        "url": "https://www.gnu.org/software/bash/"
+        "url": "https://www.gnu.org/software/bash/",
+        "svg": "devicon-bash-plain"
       },
       {
         "title": "PowerShell Scripts",
@@ -593,11 +538,29 @@
       },
       {
         "title": "Perl",
-        "url": "https://www.perl.org/"
+        "url": "https://www.perl.org/",
+        "svg": "devicon-perl-plain"
+        
+      },
+      {
+        "title": "NuxtJS",
+        "url": "https://nuxtjs.org/",
+        "svg": "devicon-nuxtjs-plain"
+        
+        
       },
       {
         "title": "AdonisJS",
-        "url": "https://adonisjs.com/"
+        "url": "https://adonisjs.com/",
+        "svg": "devicon-adonisjs-original"
+        
+      },
+
+      {
+        "title": "Firebase",
+        "url": "https://firebase.google.com/",
+        "svg": "devicon-firebase-plain-wordmark"
+        
       },
       {
         "title": "VBA",
@@ -621,24 +584,39 @@
         "url": "https://www.w3schools.com/sql/",
         "svg": "devicon-mysql-plain-wordmark"
       },
-    ]
-  },
-  "standards":{
-    "title":"Standards & Frameworks",
-    "description":"I try to go by and use",
-    "data":[
-        {
-            "title": "Docker",
-            "url": "https://www.docker.com/"
-            },
       {
-      "title": "Twitter Bootstrap",
-      "url": "https://getbootstrap.com/"
+        "title": "Laravel",
+        "url": "https://laravel.com/",
+        "svg": "devicon-laravel-plain-wordmark"
+      },
+      {
+        "title": "Docker",
+        "url": "https://www.docker.com/",
+        "svg": "devicon-docker-plain"
+      },
+
+      {
+        "title": "Bootstrap",
+        "url": "https://getbootstrap.com/",
+        "svg": "devicon-bootstrap-plain"
+      },
+
+      {
+        "title": "Tailwind",
+        "url": "https://tailwindcss.com/resources/",
+        "svg": "devicon-tailwindcss-original-wordmark"
       },
       {
         "title": "Markdown",
-        "url": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+        "url": "https://www.markdownguide.org/",
+        "svg": "devicon-markdown-original"
       },
+    ]
+  },
+  "standards":{
+    "title":"Standards",
+    "description":"I try to go by and use",
+    "data":[
       {
         "title": "Serverless Applications",
         "url": "http://serverless.css-tricks.com/services/"
@@ -682,10 +660,6 @@
     "description":"when I have time",
     "data":[
       {
-        "title": "iMVU",
-        "url": "https://secure.imvu.com/"
-      },
-      {
         "title": "Second Life",
         "url": "https://secondlife.com/"
       },
@@ -715,11 +689,11 @@
       },
       {
         "title": "Call of Duty®: Modern Warfare® Remastered",
-        "url": "https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered/"
+        "url": "https://www.callofduty.com/modern-warfare-remastered"
       },
       {
         "title": "Call of Duty: Modern Warfare",
-        "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)"
+        "url": "https://www.callofduty.com/modernwarfare"
       },
       {
         "title": "FiveM GTA",

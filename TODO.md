@@ -15,4 +15,6 @@
   efficiencys.com.sa
   6degrees.com.sa
 
-* Need to add tv shows and playlists __Decided Not to__
+* [x] Need to add tv shows and playlists __Decided Not to__
+
+* [x] Update Bootstrap and favicon

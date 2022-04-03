@@ -15,7 +15,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-favicon_grabber: "https://besticon-demo.herokuapp.com/icon?size=80..120..200&url="
+favicon_grabber: "https://favicon.mohannad-otaibi.workers.dev/?url="
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -23,4 +23,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - update_boostrap.sh
