@@ -11,7 +11,7 @@ title: Mohannad Faihan Otaibi
 <div class="row g-3">
     {% for member in site.data.db.applications.data %}
     <div class="col-12 col-md-3 mini-link">
-        <a href="{{ member[1].url }}">
+        <a rel="nofollow" href="{{ member[1].url }}">
             <img height="32" alt="{{ member[0] }}" src="{{site.favicon_grabber}}{{ member[1].url }}" class="" /><span class="col-10">{{ member[0] }}</span>
         </a>
     </div>
@@ -48,7 +48,7 @@ title: Mohannad Faihan Otaibi
 <div class="row g-3">
     {% for member in site.data.db.bookmarks.data %}
     <div class="col-12 col-md-4 mini-link">
-        <a href="{{ member.url }}">
+        <a rel="nofollow" href="{{ member.url }}">
             <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
         </a>
     </div>
@@ -83,7 +83,7 @@ title: Mohannad Faihan Otaibi
 <div class="row g-3">
     {% for member in site.data.db.accomplishments.data %}
     <div class="col-12 col-md-6 mini-link">
-        <a href="{{ member.url }}">
+        <a rel="nofollow" href="{{ member.url }}">
             <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %} class="col-10">{{ member.title }}</span>
         </a>
     </div>
@@ -99,7 +99,7 @@ title: Mohannad Faihan Otaibi
 <div class="row g-3">
     {% for member in site.data.db.languages.data %}
     <div class="col-4 col-md-1 mini-link">
-        <a href="{{ member.url }}">
+        <a rel="nofollow" href="{{ member.url }}">
             {% if member.svg %}
                 <i class="{{ member.svg }}"></i>
             {% else %}
@@ -119,7 +119,7 @@ title: Mohannad Faihan Otaibi
 <div class="row g-3">
     {% for member in site.data.db.standards.data %}
     <div class="col-12 col-md-4 mini-link">
-        <a href="{{ member.url }}">
+        <a rel="nofollow" href="{{ member.url }}">
             <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %} class="col-10">{{ member.title }}</span>
         </a>
     </div>
@@ -135,7 +135,7 @@ title: Mohannad Faihan Otaibi
 <div class="row g-3">
     {% for member in site.data.db.games.data %}
     <div class="col-12 col-md-4 mini-link">
-        <a href="{{ member.url }}">
+        <a rel="nofollow" href="{{ member.url }}">
             <img height="32" style="height:32px;" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span {% if member.arabic %}dir="rtl" {% endif %} class="col-10">{{ member.title }}</span>
         </a>
     </div>
