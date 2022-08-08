@@ -73,7 +73,7 @@
         {
           "title": "swalif.net",
           "descrption:": "",
-          "url": "http://www.swalif.net/softs/1317.html"
+          "url": "https://www.swalif.net/softs/1317.html"
         },
       ]
     }
@@ -207,7 +207,7 @@
       },
       {
         "title": "Dynamic Drive",
-        "url": "http://dynamicdrive.com/"
+        "url": "https://dynamicdrive.com/"
       },
       {
         "title": "Tutorial 9",
@@ -263,7 +263,7 @@
       },
       {
         "title": "PWN Wiki",
-        "url": "http://pwnwiki.io/#!index.md"
+        "url": "https://pwnwiki.io/#!index.md"
       },
       {
         "title": "mubix",
@@ -275,23 +275,23 @@
       },
       {
         "title": "Sahab.net",
-        "url": "http://www.sahab.net/"
+        "url": "https://www.sahab.net/"
       },
       {
         "title": "Traidnt.net",
-        "url": "http://traidnt.net"
+        "url": "https://traidnt.net"
       },
       {
         "title": "C4Arab.com",
-        "url": "http://c4arab.virtualave.net/"
+        "url": "https://c4arab.virtualave.net/"
       },
       {
         "title": "interboy.net",
-        "url": "http://interboy.net/"
+        "url": "https://interboy.net/"
       },
       {
         "title": "Alkahf",
-        "url": "https://web.archive.org/web/20020802175234/http://alkhf.com/"
+        "url": "https://web.archive.org/web/20020802175234/https://alkhf.com/"
       },
       {
         "title": "Organizational Psychology",
@@ -386,7 +386,7 @@
       },
       {
         "title": "Nothink.org",
-        "url": "http://www.nothink.org/"
+        "url": "https://www.nothink.org/"
       },
       {
         "title": "Helge Klein / SetACL",
@@ -432,17 +432,17 @@
     "data":[
       {
         "title": "أشياء لازم تتفاهم مع شركة البرمجة عليها بخصوص تطبيقك الجديد",
-        "url": "http://github.6degrees.com.sa/",
+        "url": "https://github.6degrees.com.sa/",
         "arabic": true
       },
       {
         "title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي",
-        "url": "http://www.adslgate.com/dsl/showthread.php?t=1180584",
+        "url": "https://www.adslgate.com/dsl/showthread.php?t=1180584",
         "arabic": true
       },
       {
         "title": "vBulletinner.sh",
-        "url": "http://www.swalif.net/softs/swalif68/softs248354/"
+        "url": "https://www.swalif.net/softs/swalif68/softs248354/"
       },
       {
         "title": "vBulletinner.sh +",
@@ -450,12 +450,12 @@
       },
       {
         "title": "NetLogger",
-        "url": "http://www.mo9a7i.com/tag/netlog/"
+        "url": "https://www.mo9a7i.com/tag/netlog/"
       },
       {
         "title": "FTPer",
         "description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line",
-        "url": "http://www.mohannadotaibi.com/"
+        "url": "https://www.mohannadotaibi.com/"
       },
       {
         "title": "Path App API Wrapper",
@@ -619,7 +619,7 @@
     "data":[
       {
         "title": "Serverless Applications",
-        "url": "http://serverless.css-tricks.com/services/"
+        "url": "https://serverless.css-tricks.com/services/"
       },
       {
         "title": "DRY",
@@ -651,7 +651,7 @@
       },
       {
         "title": "Article Publishing Guidelines",
-        "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/"
+        "url": "https://web.archive.org/web/20120507051131/https://www.readability.com/publishers/guidelines/"
       },
     ],
   },

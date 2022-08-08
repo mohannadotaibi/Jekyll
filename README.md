@@ -17,6 +17,6 @@
 
 ### Mohannad Otaibi (Mo9a7i)
 
-- [twitter.com/BuFai7an](http://twitter.com/BuFai7an)
-- [github.com/Mo9a7i](http://github.com/Mo9a7i)
+- [twitter.com/BuFai7an](https://twitter.com/BuFai7an)
+- [github.com/Mo9a7i](https://github.com/Mo9a7i)
 - [MohannadOtaibi.com](https://MohannadOtaibi.com)

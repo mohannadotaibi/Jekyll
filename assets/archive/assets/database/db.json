@@ -71,7 +71,7 @@
         "swalifnet":{
           "title": "swalif.net",
           "descrption:": "",
-          "url": "http://www.swalif.net/softs/1317.html",
+          "url": "https://www.swalif.net/softs/1317.html",
         },
       }
     }
@@ -253,7 +253,7 @@
       },
       {
         "title": "PWN Wiki",
-        "url": "http://pwnwiki.io/#!index.md",
+        "url": "https://pwnwiki.io/#!index.md",
       },
       {
         "title": "mubix",
@@ -425,11 +425,11 @@
   "accomplishments":[
     {
       "title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي",
-      "url": "http://www.adslgate.com/dsl/showthread.php?t=1180584",
+      "url": "https://www.adslgate.com/dsl/showthread.php?t=1180584",
     },
     {
       "title": "vBulletinner.sh",
-      "url": "http://www.swalif.net/softs/swalif68/softs248354/",
+      "url": "https://www.swalif.net/softs/swalif68/softs248354/",
     },
     {
       "title": "vBulletinner.sh +",
@@ -437,12 +437,12 @@
     },
     {
       "title": "NetLogger",
-      "url": "http://www.mo9a7i.com/tag/netlog/",
+      "url": "https://www.mo9a7i.com/tag/netlog/",
     },
     {
       "title": "FTPer",
       "description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line",
-      "url": "http://www.mohannadotaibi.com/",
+      "url": "https://www.mohannadotaibi.com/",
     },
     {
       "title": "Path App API Wrapper",
@@ -575,7 +575,7 @@
     },
     {
       "title": "Article Publishing Guidelines",
-      "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
+      "url": "https://web.archive.org/web/20120507051131/https://www.readability.com/publishers/guidelines/",
     },
   ],
   "games":[
@@ -613,7 +613,7 @@
     },
     {
       "title": "FiveM GTA",
-      "url": "https://web.archive.org/web/20120507051131/http://www.readability.com/publishers/guidelines/",
+      "url": "https://web.archive.org/web/20120507051131/https://www.readability.com/publishers/guidelines/",
     },
   ],
   "locations": [
