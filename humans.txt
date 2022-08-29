@@ -6,12 +6,12 @@
 
 	Web Developer: Mohannad F. Otaibi
 	Twitter: @BuFai7an
-	From:Dhahran, Saudi Arabia
+	From: Dhahran, Jeddah, Saudi Arabia
 
 
 /* SITE */
 	Components: Github Pages, Jekyll, Markdown
-	Last update:2020/9/29
-	Language:Arabic / English
-	Doctype:HTML5
+	Last update: 2020/9/29
+	Language: Arabic / English
+	Doctype: HTML5
 	IDE: VSCode, FileZilla, Photoshop
