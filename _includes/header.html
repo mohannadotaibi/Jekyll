@@ -9,11 +9,17 @@
             {% for member in site.data.db.social_links.data.general %}
             <li class="list-inline-item p-1">
                 <a href="{{ member.url }}">
-                    <img 
-                    height="32" 
-                    alt="{{ member.title }}" 
+
+                    {% if member.favicoDomain %}
+                    <img height="32" alt="{{ member.title }}" 
+                    src="{{site.favicon_grabber}}{{ member.favicoDomain | remove:'http://' | remove:'https://' | split:'/' | first }}/64" 
+                    />
+                    {% else %}
+                    <img height="32" alt="{{ member.title }}" 
                     src="{{site.favicon_grabber}}{{ member.url | remove:'http://' | remove:'https://' | split:'/' | first }}/64" 
                     />
+                    {% endif %}
+                    
                     <span class="title">{{ member.title }}</span>
                 </a>
             </li>

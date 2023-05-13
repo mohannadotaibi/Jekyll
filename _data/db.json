@@ -1,6 +1,6 @@
 {
   "general":{
-    "title" : "Mohannad Faihan Otaibi",
+    "title" : "Mohannad Faihan (Dalbahi) Otaibi",
     "description" : "",
     "keywords" : "",
     "slogan" : "",
@@ -9,7 +9,7 @@
     "hashtags": "#Saudi, #xKFUPMer, #Comبuتer_geeك, #MsLkjy, #M5_wAjD_5rBaN, #ENFJ, #Married, #Father, #8ies, #Tabs-Team",
     "email": "mohannad.otaibi@gmail.com",
     "phone": "966545582222",
-    "cv": "/assets/files/Mohannad-Otaibi-CV-Aug-2022.pdf",
+    "cv": "/assets/files/Mohannad-Otaibi-CV-May-2023.pdf",
     "old_nicknames": [
       "interboy", "theinterboy", "mfotaibi", "dabdoobnet", "انتربوي"
     ],
@@ -22,7 +22,7 @@
     "description":"Find me on one or more of the following links",
     "data":{
       "general":[
-        {"title": "Twitter", "description:": "", "url": "https://twitter.com/bufai7an", "favicoDomain":"twitter.com"},
+        {"title": "Twitter", "description:": "", "url": "https://twitter.com/bufai7an", "favicoDomain":"developer.twitter.com"},
         {"title": "LinkedIn", "description:": "", "url": "https://www.linkedin.com/in/mohannadotaibi/"},
         {"title": "Twitch", "description:": "", "url": "https://www.twitch.tv/bufai7an"},
         {"title": "BuFai7an.Live", "description:": "", "url": "https://bufai7an.live/"},
@@ -31,9 +31,9 @@
       "technical" :[
         {"title": "GitHub", "descrption:": "", "url": "https://github.com/Mo9a7i"},
         {"title": "StackOverflow", "descrption:": "", "url": "https://stackoverflow.com/users/5588602/mohannad-otaibi"},
-        {"title": "ترايدنت", "descrption:": "", "url": "https://www.traidnt.net/vb/u53424/"},
+        {"title": "ترايدنت", "descrption:": "", "url": "http://web.archive.org/web/20160213150705/http://www.traidnt.net/vb/u53424/"},
         {"title": "ADSLGATE", "descrption:": "", "url": "https://www.adslgate.com/dsl/member.php?u=299526"},
-        {"title": "swalif.net", "descrption:": "", "url": "https://www.swalif.net/softs/1317.html"},
+        {"title": "swalif.net", "descrption:": "", "url": "https://www.swalif.net/softs/1317.html"}
       ]
     }
   },
@@ -49,7 +49,7 @@
       "Docker Desktop": {"url": "https://www.docker.com/products/docker-desktop/"},
       "WinSCP": {"url": "https://winscp.net/eng/download.php"},
       "Figma": {"url": "https://www.figma.com/"},
-      "XAMPP": {"url": "https://www.apachefriends.org/index.html"},
+      
       "VMWare Workstation": {"url": "https://www.vmware.com/products/workstation-pro.html"},
       "VM VirtualBox": {"url": "https://www.virtualbox.org/"},
       "Fiddler": {"url": "https://www.telerik.com/fiddler/"},
@@ -71,9 +71,9 @@
       "Free Download Manager": {"url": "https://www.freedownloadmanager.org/"},
       "7-zip": {"url": "https://www.7-zip.org/"},
       "CCleaner": {"url": "https://www.ccleaner.com/"},
-      "Grammarly": {"url": "https://www.grammarly.com/"},
+      "Grammarly": {"url": "https://developer.grammarly.com/"},
       "Google Drive": {"url": "https://www.google.com/drive/download/"},
-      "Express VPN": {"url": "https://www.expressvpn.com/"},
+      "Warp": {"url": "https://1.1.1.1/"},
       "MS PowerToys": {"url": "https://github.com/microsoft/PowerToys/"},
       "BitWarden": {"url": "https://bitwarden.com/"}
     }
@@ -107,7 +107,7 @@
       {"title": "PWN Wiki","url": "https://pwnwiki.io/#!index.md"},
       {"title": "mubix","url": "https://mubix.github.io/"},
       {"title": "Sahab.net","url": "https://www.sahab.net/"},
-      {"title": "Traidnt.net","url": "https://traidnt.net"},
+      {"title": "Traidnt.net","url": "http://web.archive.org/web/20160213150705/http://www.traidnt.net/vb"},
       {"title": "C4Arab.com","url": "https://c4arab.virtualave.net/"},
       {"title": "interboy.net","url": "https://interboy.net/"},
       {"title": "Alkahf","url": "https://web.archive.org/web/20020802175234/https://alkhf.com/"},
@@ -173,7 +173,14 @@
     "title":"Organizations",
     "description":"that I respect and follow their work",
     "data":[
+      {"title": "6 Degrees Tech","url": "https://www.6degrees.com.sa/"},
+      {"title": "Promotion Efficiency","url": "https://www.promoe.com.sa/"},
+      {"title": "Efficiency Center","url": "https://www.efficiencys.com.sa/"},
+      {"title": "Burooj","url": "https://www.Burooj.pro/"},
+      {"title": "Deets.Pro","url": "https://www.deets.pro/"},
+      {"title": "Zahma o La","url": "https://www.zahmaola.com/"},
       {"title": "Hetzner","url": "https://www.hetzner.com/"},
+      {"title": "Cloudflare","url": "https://www.cloudflare.com/"},
       {"title": "Nothink.org","url": "https://www.nothink.org/"},
       {"title": "Helge Klein / SetACL","url": "https://helgeklein.com/"},
       {"title": "DigitalOcean","url": "https://www.digitalocean.com/"},
@@ -181,7 +188,6 @@
       {"title": "cPanel","url": "https://www.cpanel.net/"},
       {"title": "WHMCS","url": "https://www.whmcs.com/"},
       {"title": "Clickatell","url": "https://www.clickatell.com/"},
-      {"title": "Cloudflare","url": "https://www.cloudflare.com/"},
       {"title": "Toot Studio","url": "https://toot.com.sa/en/"}
     ]
   },
@@ -192,11 +198,11 @@
       {"title": "أشياء لازم تتفاهم مع شركة البرمجة عليها بخصوص تطبيقك الجديد","url": "https://github.6degrees.com.sa/","arabic": true},
       {"title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي","url": "https://www.adslgate.com/dsl/showthread.php?t=1180584","arabic": true},
       {"title": "vBulletinner.sh","url": "https://www.swalif.net/softs/swalif68/softs248354/"},
-      {"title": "vBulletinner.sh +","url": "https://www.traidnt.net/vb/traidnt1298111/"},
-      {"title": "NetLogger","url": "https://www.mo9a7i.com/tag/netlog/"},
-      {"title": "FTPer","description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line","url": "https://www.mohannadotaibi.com/"},
-      {"title": "Path App API Wrapper","url": "https://github.com/Mo9a7i/CodeIginter_PathAPI/"},
-      {"title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟","url": "https://www.traidnt.net/vb/traidnt1027285-2","arabic": true}
+      {"title": "vBulletinner.sh +","url": "http://web.archive.org/web/20160213150705/http://www.traidnt.net/vb/traidnt1298111/"},
+      {"title": "NetLogger","url": "https://mo9a7i.com/2009/Netloggerexe-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D9%88%D8%B1"},
+      {"title": "FTPer","description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line","url": "https://gist.github.com/mo9a7i/1ad6f6485ee7a490da8db615ff527e4f"},
+      {"title": "Path App API Wrapper","url": "https://github.com/mo9a7i/CI_Path_API"},
+      {"title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟","url": "http://web.archive.org/web/20150517010722/http://www.traidnt.net/vb/traidnt1027285-2/","arabic": true}
     ]
   },
   "languages":{

@@ -49,7 +49,8 @@ title: Mohannad Faihan Otaibi
     {% for member in site.data.db.bookmarks.data %}
     <div class="col-12 col-md-4 mini-link">
         <a rel="nofollow" target="_blank" href="{{ member.url }}">
-            <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+            <img height="32" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" />
+            <span class="col-10">{{ member.title }}</span>
         </a>
     </div>
     {% endfor %}
@@ -148,7 +149,7 @@ title: Mohannad Faihan Otaibi
 <div class="container">
 <h2>{{ site.data.db.locations.title }} <br /> <small class="text-muted">{{ site.data.db.locations.description }}</small></h2>
 <hr class="my-4" />
-<div id="map" class="shadow-sm" style="height:500px; border-radius:1rem;"></div>
+<div id="map" class="shadow-sm" style="height:600px; border-radius:1rem;"></div>
 </div>
 </section>
 
