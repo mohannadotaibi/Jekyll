@@ -4,9 +4,9 @@ title: Mohannad Faihan Otaibi
 ---
 
 <!-- Applications -->
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.applications.title }} <br /> <small class="text-muted">{{ site.data.db.applications.description }}</small></h2>
+<h2>{{ site.data.db.applications.title }} <small class="text-muted">{{ site.data.db.applications.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.applications.data %}
@@ -21,9 +21,9 @@ title: Mohannad Faihan Otaibi
 </section>
 
 <!-- Quotes -->
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.quotes.title }} <br /> <small class="text-muted">{{ site.data.db.quotes.description }}</small></h2>
+<h2>{{ site.data.db.quotes.title }} <small class="text-muted">{{ site.data.db.quotes.description }}</small></h2>
 <hr class="my-4" />
 {% for member in site.data.db.quotes.data %}
 
@@ -41,9 +41,9 @@ title: Mohannad Faihan Otaibi
 </section>
 
 <!-- Bookmarks -->
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.bookmarks.title }} <br /> <small class="text-muted">{{ site.data.db.bookmarks.description }}</small></h2>
+<h2>{{ site.data.db.bookmarks.title }} <small class="text-muted">{{ site.data.db.bookmarks.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.bookmarks.data %}
@@ -59,9 +59,9 @@ title: Mohannad Faihan Otaibi
 </section>
 
 <!-- Organizations -->
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.organizations.title }} <br /> <small class="text-muted">{{ site.data.db.organizations.description }}</small></h2>
+<h2>{{ site.data.db.organizations.title }} <small class="text-muted">{{ site.data.db.organizations.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.organizations.data %}
@@ -76,10 +76,9 @@ title: Mohannad Faihan Otaibi
 </section>
 
 <!-- Things Done -->
-
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.accomplishments.title }} <br /> <small class="text-muted">{{ site.data.db.accomplishments.description }}</small></h2>
+<h2>{{ site.data.db.accomplishments.title }} <small class="text-muted">{{ site.data.db.accomplishments.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.accomplishments.data %}
@@ -93,18 +92,19 @@ title: Mohannad Faihan Otaibi
 </div>
 </section>
 
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.languages.title }} <br /> <small class="text-muted">{{ site.data.db.languages.description }}</small></h2>
+<h2>{{ site.data.db.languages.title }} <small class="text-muted">{{ site.data.db.languages.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.languages.data %}
-    <div class="col-4 col-md-1 mini-link">
+    <div class="col-12 col-md-2 mini-link">
         <a rel="nofollow" target="_blank" href="{{ member.url }}">
             {% if member.svg %}
-                <i class="{{ member.svg }}"></i>
+                <img height="18" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
+                <!--<i class="{{ member.svg }}"></i>-->
             {% else %}
-                <img height="48" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="grayscale" />
+                <img height="18" alt="{{ member.title }}" src="{{site.favicon_grabber}}{{ member.url }}" class="" /><span class="col-10">{{ member.title }}</span>
             {% endif %}
         </a>
     </div>
@@ -113,9 +113,9 @@ title: Mohannad Faihan Otaibi
 </div>
 </section>
 
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.standards.title }} <br /> <small class="text-muted">{{ site.data.db.standards.description }}</small></h2>
+<h2>{{ site.data.db.standards.title }} <small class="text-muted">{{ site.data.db.standards.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.standards.data %}
@@ -129,9 +129,9 @@ title: Mohannad Faihan Otaibi
 </div>
 </section>
 
-<section markdown="1" class="my-5 px-3 py-5">
+<section markdown="1" class="my-2 px-1 py-3 my-md-5 px-md-3 py-md-5">
 <div class="container">
-<h2>{{ site.data.db.games.title }} <br /> <small class="text-muted">{{ site.data.db.games.description }}</small></h2>
+<h2>{{ site.data.db.games.title }} <small class="text-muted">{{ site.data.db.games.description }}</small></h2>
 <hr class="my-4" />
 <div class="row g-3">
     {% for member in site.data.db.games.data %}
@@ -145,23 +145,10 @@ title: Mohannad Faihan Otaibi
 </div>
 </section>
 
-<section markdown="1" class="my-5 px-3 py-5">
+<!-- Places -->
+<section markdown="1" class="mt-2 pt-3 mt-md-5 pt-md-5">
 <div class="container">
-<h2>{{ site.data.db.locations.title }} <br /> <small class="text-muted">{{ site.data.db.locations.description }}</small></h2>
-<hr class="my-4" />
-<div id="map" class="shadow-sm" style="height:600px; border-radius:1rem;"></div>
+<h2 class="mb-4">{{ site.data.db.locations.title }} <small class="text-muted">{{ site.data.db.locations.description }}</small></h2>
 </div>
-</section>
-
-<!-- use a serverless form -->
-<section markdown="1" class="my-5 px-3 py-5">
-<div class="container">
-<h2>Contact Me <br /> <small>for Projects, Questions, or simply saying Hi!</small></h2>
-<hr class="my-4" />
-<!-- a serverless contact us form -->
-<div class="card border-0 shadow-sm p-5" style="border-radius:1rem;">
-    {%- include form.html -%}
-</div>
-
-</div>
+<div id="map" class="shadow-sm" style="height:600px;"></div>
 </section>

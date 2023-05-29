@@ -18,8 +18,6 @@
 - for Mo9a7i
   <https://startbootstrap.com/previews/clean-blog/>
   #2A2A2A
-- for programming languages icons
-  <https://devicon.dev/>   find a replacement for it
 
 - add serverless to frameworks **done**
 

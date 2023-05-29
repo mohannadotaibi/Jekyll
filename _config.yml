@@ -1,24 +1,20 @@
 title: Mohannad Faihan Otaibi
 email: "mohannad.otaibi@gmail.com"
 description: "The Geek you wanna talk to about technology and stuff #Saudi, #xKFUPMer, #Comبuتer_geeك, #MsLkjy, #M5_wAjD_5rBaN, #Enfj, #Married, #Father, #8ies, #Tabs-Team"
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://mohannadotaibi.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" 
+url: "https://mohannadotaibi.com" 
 twitter_username: bufai7an
 github_username:  mo9a7i
 
 repository: "mohannadotaibi/mohannadotaibi.com"
 
-# Build settings
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# A list of the pages to display in the navigation bar
 header_pages:
 favicon_grabber: "https://favicon.mohannad-otaibi.workers.dev/?url="
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+
 exclude:
   - Gemfile
   - Gemfile.lock

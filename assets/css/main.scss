@@ -34,9 +34,15 @@ header{
                 &:hover{
                     background-color:rgba(0,0,0,0.1);
                 }
-                padding:0.25rem;
+                display: flex;
+                align-items: center;
+                padding:0.5rem;
                 border-radius: 0.5rem;
                 color:#5a5a5a;
+                span{
+                    padding:0;
+                    padding-left:0.5rem;
+                }
             }
         }
     }

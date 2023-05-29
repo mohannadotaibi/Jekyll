@@ -9,7 +9,7 @@
     "hashtags": "#Saudi, #xKFUPMer, #Comبuتer_geeك, #MsLkjy, #M5_wAjD_5rBaN, #ENFJ, #Married, #Father, #8ies, #Tabs-Team",
     "email": "mohannad.otaibi@gmail.com",
     "phone": "966545582222",
-    "cv": "/assets/files/Mohannad-Otaibi-CV-May-2023.pdf",
+    "cv": "/assets/files/20230530 Mohannad Otaibi CV.pdf",
     "old_nicknames": [
       "interboy", "theinterboy", "mfotaibi", "dabdoobnet", "انتربوي"
     ],
@@ -39,19 +39,31 @@
     }
   },
   "applications":{
-    "title":"My Software",
-    "description":"Apps I depend on, in my new setups or to finish some work",
+    "title":"💻 Software Arsenal",
+    "description":"Apps and Programs I depend on in my setups to finish work",
     "data": {
-      "VS Code": {"url": "https://code.visualstudio.com/"},  
+      
+      "SAP S4HANA": {"url": "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE"},
+      "SAP Ariba": {"url": "https://www.sap.com/mena/products/spend-management/ariba-login.html"},
+
+      "VS Code": {"url": "https://code.visualstudio.com/"},
       "Insomnia": {"url": "https://insomnia.rest/"},
       "Termius": {"url": "https://termius.com/"},
-      "Chocolatey": {"url": "https://chocolatey.org/"},
       "GitHub Desktop": {"url": "https://desktop.github.com/"},
       "Docker Desktop": {"url": "https://www.docker.com/products/docker-desktop/"},
       "WinSCP": {"url": "https://winscp.net/eng/download.php"},
-      "Figma": {"url": "https://www.figma.com/"},
       "MySQL Workbench": {"url": "https://www.mysql.com/products/workbench/"},
+      
+      "Chocolatey": {"url": "https://chocolatey.org/"},
+      "Homebrew": {"url": "https://brew.sh/"},
+      "Winget": {"url": "https://learn.microsoft.com/en-us/windows/package-manager/winget/"},
+      
+      
+      
+      "Figma": {"url": "https://www.figma.com/"},
+      
       "VMWare Workstation": {"url": "https://www.vmware.com/products/workstation-pro.html"},
+      "VMWare ESXi": {"url": "https://www.vmware.com/products/esxi-and-esx.html"},
       "VM VirtualBox": {"url": "https://www.virtualbox.org/"},
       "Fiddler": {"url": "https://www.telerik.com/fiddler/"},
       "K-Lite": {"url": "https://codecguide.com/download_kl.htm"},
@@ -78,11 +90,23 @@
       "PowerToys": {"url": "https://www.cgsecurity.org/wiki/TestDisk"},
       "TestDisk": {"url": "https://github.com/microsoft/PowerToys/"},
       "BitWarden": {"url": "https://bitwarden.com/"}
+      
+      
     }
   },
+  "quotes": {
+    "title": "💡 Quotes",
+    "description": "I try to Live by and respect",
+    "data": [
+      {"quote": "You cannot arrest an idea, it is bulletproof.","author": "Anonymous"},
+      {"quote": "The Quiter you become, the more you are able to hear","author": "Quoted by BackTrack OS, By Rumi"},
+      {"quote": "We only see two things in people; what we want to see, and what they want to show us.","author": "James Remer, as Harry Morgan"},
+      {"quote": "It is not the strongest species that survive, nor the most intelligent, but the ones responsive to change.","author": "Charles Darwin"}
+    ]
+  },
   "bookmarks": {
-    "title":"My Bookmarks",
-    "description":"Websites I enjoy browsing, or need most of the time",
+    "title":"🔗 Bookmarks",
+    "description":"of Websites I enjoy browsing, or need, most of the time",
     "data": [
       {"title": "Smashing Magazine","url": "https://www.smashingmagazine.com/"},
       
@@ -128,20 +152,143 @@
     ]
   },
 
-  "Comment": "// Open Source I Like",
-  "quotes": {
-    "title": "Quotes",
-    "description": "Live by and respect",
+  "organizations":{
+    "title":"💼 Organizations",
+    "description":"that I respect and follow their work",
+    "data":[
+      {"title": "6 Degrees Tech","url": "https://www.6degrees.com.sa/"},
+      {"title": "Promotion Efficiency","url": "https://www.promoe.com.sa/"},
+      {"title": "Efficiency Center","url": "https://www.efficiencys.com.sa/"},
+      {"title": "Burooj","url": "https://www.Burooj.pro/"},
+      {"title": "Deets.Pro","url": "https://www.deets.pro/"},
+      {"title": "Zahma o La","url": "https://www.zahmaola.com/"},
+      {"title": "Hetzner","url": "https://www.hetzner.com/"},
+      {"title": "Cloudflare","url": "https://www.cloudflare.com/"},
+      {"title": "Nothink.org","url": "https://www.nothink.org/"},
+      {"title": "Helge Klein / SetACL","url": "https://helgeklein.com/"},
+      {"title": "DigitalOcean","url": "https://www.digitalocean.com/"},
+      {"title": "GitHub","url": "https://www.github.com/"},
+      {"title": "cPanel","url": "https://www.cpanel.net/"},
+      {"title": "WHMCS","url": "https://www.whmcs.com/"},
+      {"title": "Clickatell","url": "https://www.clickatell.com/"},
+      {"title": "Toot Studio","url": "https://toot.com.sa/en/"}
+    ]
+  },
+
+  "accomplishments":{
+    "title":"🏆 Achievements",
+    "description":"pieces of work done that I'm proud of",
+    "data":[
+      {"title": "أشياء لازم تتفاهم مع شركة البرمجة عليها بخصوص تطبيقك الجديد","url": "https://github.6degrees.com.sa/","arabic": true},
+      {"title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي","url": "https://www.adslgate.com/dsl/showthread.php?t=1180584","arabic": true},
+      {"title": "vBulletinner.sh","url": "https://www.swalif.net/softs/swalif68/softs248354/"},
+      {"title": "vBulletinner.sh +","url": "http://web.archive.org/web/20160213150705/http://www.traidnt.net/vb/traidnt1298111/"},
+      {"title": "NetLogger","url": "https://mo9a7i.com/2009/Netloggerexe-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D9%88%D8%B1"},
+      {"title": "FTPer","description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line","url": "https://gist.github.com/mo9a7i/1ad6f6485ee7a490da8db615ff527e4f"},
+      {"title": "Path App API Wrapper","url": "https://github.com/mo9a7i/CI_Path_API"},
+      {"title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟","url": "http://web.archive.org/web/20150517010722/http://www.traidnt.net/vb/traidnt1027285-2/","arabic": true}
+    ]
+  },
+
+  "languages":{
+    "title":"📚 Dev Skillz",
+    "description":"Porgramming languages, Frameworks and Development tools that I am comfortable using",
     "data": [
-      {"quote": "You cannot arrest an idea, it is bulletproof.","author": "Anonymous"},
-      {"quote": "The Quiter you become, the more you are able to hear","author": "Quoted by BackTrack OS, By Rumi"},
-      {"quote": "We only see two things in people; what we want to see, and what they want to show us.","author": "James Remer, as Harry Morgan"},
-      {"quote": "It is not the strongest species that survive, nor the most intelligent, but the ones responsive to change.","author": "Charles Darwin"}
+      {"title": "JAVA","url": "https://www.java.com/en/download/"},
+
+      {"title": "Dart","url": "https://dart.dev/"},
+      {"title": "Flutter","url": "https://flutter.dev/"},
+
+      {"title": "PHP","url": "https://www.php.net/"},
+      {"title": "CodeIgniter","url": "https://codeigniter.com/"},
+      {"title": "Laravel","url": "https://laravel.com/"},
+      {"title": "WordPress Plugins","url": "https://developer.wordpress.org/plugins/"},
+
+
+      {"title": "ASP.NET","url": "https://dotnet.microsoft.com/en-us/apps/aspnet/"},
+      {"title": "C#","url": "https://docs.microsoft.com/en-us/dotnet/csharp/"},
+      {"title": "VBA","url": "https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"},
+      {"title": "VB.net","url": "https://docs.microsoft.com/en-us/dotnet/visual-basic/"},
+
+      
+      {"title": "Javascript","url": "https://www.w3schools.com/js/DEFAULT.asp"},
+      {"title": "NodeJs","url": "https://nodejs.org/en/"},
+      {"title": "Express.js","url": "https://expressjs.com/"},
+      
+      {"title": "NuxtJS","url": "https://nuxtjs.org/"},
+      {"title": "AdonisJS","url": "https://adonisjs.com/"},
+      {"title": "Strapi","url": "https://strapi.io/"},
+      {"title": "Vue.js","url": "https://vuejs.org/"},
+      {"title": "jQuery","url": "https://jquery.com/"},
+
+      {"title": "HTML","url": "https://www.w3schools.com/html/"},
+      {"title": "SASS/SCSS","url": "https://sass-lang.com/"},
+      {"title": "Bootstrap","url": "https://getbootstrap.com/"},
+      {"title": "Tailwind","url": "https://tailwindcss.com/resources/"},
+      {"title": "Jekyll","url": "https://jekyllrb.com/"},
+
+      {"title": "Python","url": "https://www.python.org/"},
+      {"title": "Perl","url": "https://www.perl.org/"},
+      
+
+      {"title": "bash","url": "https://www.gnu.org/software/bash/"},
+      {"title": "Batch","url": "https://www.tutorialspoint.com/batch_script/index.htm"},
+      {"title": "PowerShell","url": "https://www.tutorialspoint.com/powershell/powershell_scripting.htm"},
+      
+      {"title": "SQL (my/MS)","url": "https://www.w3schools.com/sql/"},
+      {"title": "Firebase","url": "https://firebase.google.com/"},  
+      {"title": "Docker","url": "https://www.docker.com/"},
+
+      {"title": "Markdown","url": "https://www.markdownguide.org/"}
+      
+    ]
+  },
+
+  "Comment": "// Open Source I Like",
+
+
+  "playlist":{
+    "title": "YouTube",
+    "description": "My Youtube Favorites",
+    "data": {
+    }
+  },
+  
+  "standards":{
+    "title":"📜 Standards",
+    "description":"I try to go by and use",
+    "data":[
+      {"title": "Serverless","url": "https://serverless.css-tricks.com/services/"},
+      {"title": "DRY","url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself"},
+      {"title": "10 Laws to Design By","url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/"},
+      {"title": "PSR-2","url": "https://www.php-fig.org/psr/psr-2/"},
+      {"title": "PHP The Right Way","url": "https://phptherightway.com/"},
+      {"title": "PHP Best Practices","url": "https://phpbestpractices.org/"},
+      {"title": "Getting Things Done","url": "https://en.wikipedia.org/wiki/Getting_Things_Done"},
+      {"title": "Usability Testing Demystified","url": "https://alistapart.com/article/usability-testing-demystified/"},
+      {"title": "Article Publishing Guidelines","url": "https://web.archive.org/web/20120507051131/https://www.readability.com/publishers/guidelines/"}
+    ]
+  },
+
+  "games":{
+    "title":"🎮 Games I Play",
+    "description":"when I have time",
+    "data":[
+      {"title": "Second Life","url": "https://secondlife.com/"},
+      {"title": "Call of Duty® 4: Modern Warfare®","url": "https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare/"},
+      {"title": "Call of Duty®: Modern Warfare® 2","url": "https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2/"},
+      {"title": "Call of Duty: World at War","url": "https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/"},
+      {"title": "Call of Duty®: Black Ops","url": "https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/"},
+      {"title": "Call of Duty®: Modern Warfare® 3","url": "https://store.steampowered.com/app/115300/Call_of_Duty_Modern_Warfare_3/"},
+      {"title": "Call of Duty®: Black Ops II","url": "https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/"},
+      {"title": "Call of Duty®: Modern Warfare® Remastered","url": "https://www.callofduty.com/modern-warfare-remastered"},
+      {"title": "Call of Duty: Modern Warfare","url": "https://www.callofduty.com/modernwarfare"},
+      {"title": "FiveM GTA","url": "https://fivem.net/"}
     ]
   },
   "locations": {
-    "title": "Been to",
-    "description": "Locations I lived in, visited, or my foots were set on",
+    "title": "🌎 Places",
+    "description": "my feet touched",
     "data": [
       {"lat": "61.912363","lng": "25.824976"},
       {"lat": "37.5652154","lng": "126.9195105"},
@@ -170,112 +317,6 @@
       {"lat": "21.422537","lng": "39.826218"},
       {"lat": "29.291355","lng": "47.921233"},
       {"lat": "32.221081","lng": "-110.922326"}
-    ]
-  },
-  "playlist":{
-    "title": "YouTube",
-    "description": "My Youtube Favorites",
-    "data": {
-    }
-  },
-  "organizations":{
-    "title":"Organizations",
-    "description":"that I respect and follow their work",
-    "data":[
-      {"title": "6 Degrees Tech","url": "https://www.6degrees.com.sa/"},
-      {"title": "Promotion Efficiency","url": "https://www.promoe.com.sa/"},
-      {"title": "Efficiency Center","url": "https://www.efficiencys.com.sa/"},
-      {"title": "Burooj","url": "https://www.Burooj.pro/"},
-      {"title": "Deets.Pro","url": "https://www.deets.pro/"},
-      {"title": "Zahma o La","url": "https://www.zahmaola.com/"},
-      {"title": "Hetzner","url": "https://www.hetzner.com/"},
-      {"title": "Cloudflare","url": "https://www.cloudflare.com/"},
-      {"title": "Nothink.org","url": "https://www.nothink.org/"},
-      {"title": "Helge Klein / SetACL","url": "https://helgeklein.com/"},
-      {"title": "DigitalOcean","url": "https://www.digitalocean.com/"},
-      {"title": "GitHub","url": "https://www.github.com/"},
-      {"title": "cPanel","url": "https://www.cpanel.net/"},
-      {"title": "WHMCS","url": "https://www.whmcs.com/"},
-      {"title": "Clickatell","url": "https://www.clickatell.com/"},
-      {"title": "Toot Studio","url": "https://toot.com.sa/en/"}
-    ]
-  },
-  "accomplishments":{
-    "title":"Things Done",
-    "description":"pieces of work done that I'm proud of",
-    "data":[
-      {"title": "أشياء لازم تتفاهم مع شركة البرمجة عليها بخصوص تطبيقك الجديد","url": "https://github.6degrees.com.sa/","arabic": true},
-      {"title": "تجربتي في غسل مذربورد MBP 13 i7 من آثار شاهي","url": "https://www.adslgate.com/dsl/showthread.php?t=1180584","arabic": true},
-      {"title": "vBulletinner.sh","url": "https://www.swalif.net/softs/swalif68/softs248354/"},
-      {"title": "vBulletinner.sh +","url": "http://web.archive.org/web/20160213150705/http://www.traidnt.net/vb/traidnt1298111/"},
-      {"title": "NetLogger","url": "https://mo9a7i.com/2009/Netloggerexe-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D9%88%D8%B1"},
-      {"title": "FTPer","description": "Small bash script '/usr/local/bin' to automate sending files to a remote ftp through command line","url": "https://gist.github.com/mo9a7i/1ad6f6485ee7a490da8db615ff527e4f"},
-      {"title": "Path App API Wrapper","url": "https://github.com/mo9a7i/CI_Path_API"},
-      {"title": "لماذا لايعمل الدومين الخاص بي مباشرة بعد حجزه؟","url": "http://web.archive.org/web/20150517010722/http://www.traidnt.net/vb/traidnt1027285-2/","arabic": true}
-    ]
-  },
-  "languages":{
-    "title":"Programming Languages & Frameworks",
-    "description":"I speak",
-    "data": [
-      {"title": "JAVA","url": "https://www.java.com/en/download/","svg": "devicon-java-plain"},
-      {"title": "C#","url": "https://docs.microsoft.com/en-us/dotnet/csharp/","svg": "devicon-csharp-plain"},
-      {"title": "HTML","url": "https://www.w3schools.com/html/","svg": "devicon-html5-plain-wordmark"},
-      {"title": "CSS","url": "https://www.w3schools.com/css/","svg": "devicon-css3-plain-wordmark"},
-      {"title": "Javascript","url": "https://www.w3schools.com/js/DEFAULT.asp","svg": "devicon-javascript-plain"},
-      {"title": "jQuery","url": "https://jquery.com/","svg": "devicon-jquery-plain-wordmark"},
-      {"title": "PHP","url": "https://www.php.net/","svg": "devicon-php-plain"},
-      {"title": "CodeIgniter","url": "https://codeigniter.com/","svg": "devicon-codeigniter-plain-wordmark"},
-      {"title": "Laravel","url": "https://laravel.com/","svg": "devicon-laravel-plain"},
-      {"title": "Python","url": "https://www.python.org/","svg": "devicon-python-plain-wordmark"},
-      {"title": "WordPress Plugins","url": "https://developer.wordpress.org/plugins/","svg": "devicon-wordpress-plain"},
-      {"title": "bash","url": "https://www.gnu.org/software/bash/","svg": "devicon-bash-plain"},
-      {"title": "PowerShell Scripts","url": "https://www.tutorialspoint.com/powershell/powershell_scripting.htm"},
-      {"title": "Perl","url": "https://www.perl.org/","svg": "devicon-perl-plain"},
-      {"title": "NuxtJS","url": "https://nuxtjs.org/","svg": "devicon-nuxtjs-plain"},
-      {"title": "AdonisJS","url": "https://adonisjs.com/","svg": "devicon-adonisjs-original"},
-      {"title": "Firebase","url": "https://firebase.google.com/","svg": "devicon-firebase-plain-wordmark"},
-      {"title": "VBA","url": "https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"},
-      {"title": "VB.net","url": "https://docs.microsoft.com/en-us/dotnet/visual-basic/"},
-      {"title": "Batch Scripting","url": "https://www.tutorialspoint.com/batch_script/index.htm"},
-      {"title": "nodeJs","url": "https://nodejs.org/en/","svg": "devicon-nodejs-plain-wordmark"},
-      {"title": "sql","url": "https://www.w3schools.com/sql/","svg": "devicon-mysql-plain-wordmark"},
-      {"title": "Laravel","url": "https://laravel.com/","svg": "devicon-laravel-plain-wordmark"},
-      {"title": "Docker","url": "https://www.docker.com/","svg": "devicon-docker-plain"},
-      {"title": "Bootstrap","url": "https://getbootstrap.com/","svg": "devicon-bootstrap-plain"},
-      {"title": "Tailwind","url": "https://tailwindcss.com/resources/","svg": "devicon-tailwindcss-original-wordmark"},
-      {"title": "Markdown","url": "https://www.markdownguide.org/","svg": "devicon-markdown-original"}
-    ]
-  },
-  "standards":{
-    "title":"Standards",
-    "description":"I try to go by and use",
-    "data":[
-      {"title": "Serverless","url": "https://serverless.css-tricks.com/services/"},
-      {"title": "DRY","url": "https://en.wikipedia.org/wiki/Don't_repeat_yourself"},
-      {"title": "10 Laws to Design By","url": "https://3.7designs.co/blog/2010/07/ten-laws-to-design-by/"},
-      {"title": "PSR-2","url": "https://www.php-fig.org/psr/psr-2/"},
-      {"title": "PHP The Right Way","url": "https://phptherightway.com/"},
-      {"title": "PHP Best Practices","url": "https://phpbestpractices.org/"},
-      {"title": "Getting Things Done","url": "https://en.wikipedia.org/wiki/Getting_Things_Done"},
-      {"title": "Usability Testing Demystified","url": "https://alistapart.com/article/usability-testing-demystified/"},
-      {"title": "Article Publishing Guidelines","url": "https://web.archive.org/web/20120507051131/https://www.readability.com/publishers/guidelines/"}
-    ]
-  },
-  "games":{
-    "title":"Games I Play",
-    "description":"when I have time",
-    "data":[
-      {"title": "Second Life","url": "https://secondlife.com/"},
-      {"title": "Call of Duty® 4: Modern Warfare®","url": "https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare/"},
-      {"title": "Call of Duty®: Modern Warfare® 2","url": "https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2/"},
-      {"title": "Call of Duty: World at War","url": "https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/"},
-      {"title": "Call of Duty®: Black Ops","url": "https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/"},
-      {"title": "Call of Duty®: Modern Warfare® 3","url": "https://store.steampowered.com/app/115300/Call_of_Duty_Modern_Warfare_3/"},
-      {"title": "Call of Duty®: Black Ops II","url": "https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/"},
-      {"title": "Call of Duty®: Modern Warfare® Remastered","url": "https://www.callofduty.com/modern-warfare-remastered"},
-      {"title": "Call of Duty: Modern Warfare","url": "https://www.callofduty.com/modernwarfare"},
-      {"title": "FiveM GTA","url": "https://fivem.net/"}
     ]
   }
 }
