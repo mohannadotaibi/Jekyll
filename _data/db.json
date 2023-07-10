@@ -17,6 +17,7 @@
       "mfotaibi@flashmail.com", "mfotaibi@hotmail.com", "dabdoobnet@hotmail.com", "theinterboy@yahoo.com","interboy@c4arab.com","montada@mo9a7i.com"
     ]
   },
+
   "social_links" :{
     "title":"Social Media Accounts",
     "description":"Find me on one or more of the following links",
@@ -38,6 +39,7 @@
       ]
     }
   },
+
   "applications":{
     "title":"💻 Software Arsenal",
     "description":"Apps and Programs I depend on in my setups to finish work",
@@ -94,6 +96,7 @@
       
     }
   },
+  
   "quotes": {
     "title": "💡 Quotes",
     "description": "I try to Live by and respect",
@@ -104,6 +107,7 @@
       {"quote": "It is not the strongest species that survive, nor the most intelligent, but the ones responsive to change.","author": "Charles Darwin"}
     ]
   },
+
   "bookmarks": {
     "title":"🔗 Bookmarks",
     "description":"of Websites I enjoy browsing, or need, most of the time",
